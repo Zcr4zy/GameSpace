@@ -21,5 +21,5 @@ Este é um projeto de site desenvolvido em ASP.NET MVC utilizando C# e banco de 
 - **IDE:** Visual Studio
 
 ## Criadores
-- **Zcr4zy   --> Carlos Cunha
-- **Baldenho --> Vinícius Balde
+- **Zcr4zy**   --> Carlos Cunha
+- **Baldenho** --> Vinícius Balde
