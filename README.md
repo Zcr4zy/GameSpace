@@ -18,7 +18,7 @@ Este é um projeto de site desenvolvido em ASP.NET MVC utilizando C# e banco de 
 - **Banco de Dados:** MySQL
 - **ORM:** Entity Framework
 - **Views:** Razor
-- **IDE:** Visual Studio
+- **IDE:** Visual Studio Code
 
 ## Criadores
 - **Zcr4zy**   --> Carlos Cunha
