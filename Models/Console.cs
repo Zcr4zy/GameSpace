@@ -1,18 +1,37 @@
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
 namespace GameSpace.Models
 {
+    [Table("Console")]
     public class Console
     {
+        [Key]
         public int Id { get; set; }
+
+        [Required(ErrorMessage = "Insira o nome do console")]
+        [StringLength(50, ErrorMessage = "A quantidade máxima de caracteres para o campo nome é 50!")]
         public string Nome { get; set; }
+
+        [Required(ErrorMessage = "Insira a descrição do console")]
+        [StringLength(300, ErrorMessage = "A quantidade máxima de caracteres para o campo descricao é 300!")]
         public string Descricao { get; set; }
+
+        [Required(ErrorMessage = "Insira a imagem do console")]
         public string Imagem { get; set; }
+
+        [Required(ErrorMessage = "Insira a data de lançamento do console")]
         public DateOnly DataLancamento { get; set; }
+
+        [Required(ErrorMessage = "Insira o fabricante do console!")]
+        public int FabricanteConsoleId { get; set; }
+        [ForeignKey("FabricanteConsoleId")]
         public FabricanteConsole Fabricante { get; set; }
+
         public string Geracao
         {
             get
