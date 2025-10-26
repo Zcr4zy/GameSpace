@@ -1,4 +1,6 @@
 using GameSpace.Data;
+using GameSpace.Interfaces;
+using GameSpace.Repository;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +12,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
     ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection")))
 );
+
+builder.Services.AddScoped<IConsoleRepository, ConsoleRepository>();
 
 var app = builder.Build();
 

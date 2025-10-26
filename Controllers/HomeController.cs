@@ -1,21 +1,23 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using GameSpace.Models;
+using GameSpace.Interfaces;
 
 namespace GameSpace.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
+    private readonly IConsoleRepository _consoleRepository;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(IConsoleRepository consoleRepository)
     {
-        _logger = logger;
+        _consoleRepository = consoleRepository;
     }
 
     public IActionResult Index()
     {
-        return View();
+        var consoles = _consoleRepository.GetAll();
+        return View(consoles);
     }
 
     public IActionResult Privacy()
