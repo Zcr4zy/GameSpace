@@ -361,7 +361,6 @@ SELECT 'Forza Horizon 5',
 	   'O México nunca foi tão lindo — carros, liberdade e gráficos absurdos.',
 	   '\\img\\Jogos\\ForzaHorizon5.png',
 	   '2021-11-09',
-	   3
 	/* -- Sony -- */
 UNION ALL
 SELECT 'God of War (2005)',
