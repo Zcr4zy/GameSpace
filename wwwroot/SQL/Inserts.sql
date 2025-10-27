@@ -147,6 +147,16 @@ SELECT 'PlayStation Portable',
        '2004-12-12',
        2,
        '7° Geração'
+UNION ALL
+SELECT 'PlayStation Vita',
+	   'O primeiro console portátil da Sony, rival direto do Nintendo DS. Tinha gráficos absurdos pra um portátil da época, rodava filmes em UMD, e podia tocar música, navegar na web e até conectar ao PS3.',
+       '\\img\\Consoles\\playStationVita.png',
+       '2012-02-15',
+       2,
+       '8° Geração'
+	   /* -- NINTENDO  --  */
+	   /* -- SEGA  --  */
+	   /* -- ATARI  --  */
 WHERE EXISTS (
 	SELECT * 
 	FROM INFORMATION_SCHEMA.TABLES
@@ -392,7 +402,7 @@ SELECT 'The Last of Us',
 UNION ALL
 SELECT 'The Last of Us Part II',
 	   'Ellie busca vingança em uma jornada intensa, emocional e cinematográfica.',
-	   '\\img\\Jogos\\TheLastOfUsPartII.png',
+	   '\\img\\Jogos\\TheLastOfUsPart2.png',
 	   '2020-06-19',
 	   4
 WHERE EXISTS (

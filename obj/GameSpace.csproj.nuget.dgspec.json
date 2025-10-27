@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\GameSpace\\GameSpace.csproj": {}
+    "D:\\Repositórios\\Programação Web II\\Gamespace\\GameSpace\\GameSpace.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\GameSpace\\GameSpace.csproj": {
+    "D:\\Repositórios\\Programação Web II\\Gamespace\\GameSpace\\GameSpace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\GameSpace\\GameSpace.csproj",
+        "projectUniqueName": "D:\\Repositórios\\Programação Web II\\Gamespace\\GameSpace\\GameSpace.csproj",
         "projectName": "GameSpace",
-        "projectPath": "C:\\Users\\User\\Downloads\\GameSpace\\GameSpace.csproj",
+        "projectPath": "D:\\Repositórios\\Programação Web II\\Gamespace\\GameSpace\\GameSpace.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\",
+        "outputPath": "D:\\Repositórios\\Programação Web II\\Gamespace\\GameSpace\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
