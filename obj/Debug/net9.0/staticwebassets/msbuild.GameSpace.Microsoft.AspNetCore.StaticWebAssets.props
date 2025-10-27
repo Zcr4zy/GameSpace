@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>b9sayid5wm</Fingerprint>
-      <Integrity>j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=</Integrity>
+      <Fingerprint>697w2n1baq</Fingerprint>
+      <Integrity>urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -54,24 +54,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GameSpace.htxsh45e5l.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\GameSpace Dark.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>GameSpace</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/GameSpace</BasePath>
-      <RelativePath>img/GameSpace Dark.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0nfym6ww0u</Fingerprint>
-      <Integrity>rDFeyyN00Jhs7aWkMTx/TXzqAGLLY5/odIhmdIoRvj0=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\GameSpace Dark.png'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\GameSpace Light.png'))">
       <SourceType>Package</SourceType>
       <SourceId>GameSpace</SourceId>
@@ -90,6 +72,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\GameSpace Light.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\GameSpaceDark.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GameSpace</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GameSpace</BasePath>
+      <RelativePath>img/GameSpaceDark.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>86up1taolf</Fingerprint>
+      <Integrity>ADqOpBcx01trRBrO5bzx9W+amJfp/G3x1TNYTAJcGcA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\GameSpaceDark.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Logos_Fabricantes_Consoles\atariLogo.png'))">
       <SourceType>Package</SourceType>
       <SourceId>GameSpace</SourceId>
@@ -102,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>kv12bgw3h0</Fingerprint>
-      <Integrity>AGET+ruYloojvSWFdTHA/XWVG5BBC79JrJ2kGowyfF8=</Integrity>
+      <Fingerprint>ayymcg63f9</Fingerprint>
+      <Integrity>ckbmkARSk0NJQLsLcdgZiX0hMiZOkKFG4gD9/9jFPaQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Logos_Fabricantes_Consoles\atariLogo.png'))</OriginalItemSpec>
@@ -138,8 +138,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>cumtbrzjjz</Fingerprint>
-      <Integrity>HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE=</Integrity>
+      <Fingerprint>7fpavwl269</Fingerprint>
+      <Integrity>M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Logos_Fabricantes_Consoles\nintendoLogo.png'))</OriginalItemSpec>
@@ -264,8 +264,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>cumtbrzjjz</Fingerprint>
-      <Integrity>HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE=</Integrity>
+      <Fingerprint>7fpavwl269</Fingerprint>
+      <Integrity>M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Logos_Fabricantes_Jogos\nintendoLogo.png'))</OriginalItemSpec>

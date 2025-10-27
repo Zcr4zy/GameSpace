@@ -1,3 +1,7 @@
+body{
+  background: radial-gradient(circle at center, #1b1630 0%, #0b0a12 100%);
+}
+
 html {
   font-size: 14px;
 }
@@ -28,4 +32,15 @@ body {
 
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
+}
+
+#navbarNavegacao{
+  background: transparent;
+  color: white !important;
+  justify-self: center;
+}
+
+#logoGameSpace{
+  width: 300px; 
+  height: 100px;
 }

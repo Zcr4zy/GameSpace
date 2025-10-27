@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Gt3dose+U5uwL1ahpgkzWtYfHbbkbUfs0zZBhharEPs=",
+  "Hash": "4Pa4ZgjON/3T5layJP5wJqfKUF6CZ3LOgKwIyeYnc2Q=",
   "Source": "GameSpace",
   "BasePath": "_content/GameSpace",
   "Mode": "Default",
@@ -857,12 +857,12 @@
       "OriginalItemSpec": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-697w2n1baq.gz",
       "SourceId": "GameSpace",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GameSpace",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=697w2n1baq}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -871,8 +871,8 @@
       "RelatedAsset": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0suozzrugb",
-      "Integrity": "0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=",
+      "Fingerprint": "lazmy120i9",
+      "Integrity": "032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "697w2n1baq",
+      "Integrity": "urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1445,27 +1445,6 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\GameSpace Dark.png",
-      "SourceId": "GameSpace",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\",
-      "BasePath": "_content/GameSpace",
-      "RelativePath": "img/GameSpace Dark#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "0nfym6ww0u",
-      "Integrity": "rDFeyyN00Jhs7aWkMTx/TXzqAGLLY5/odIhmdIoRvj0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\GameSpace Dark.png"
-    },
-    {
       "Identity": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\GameSpace Light.png",
       "SourceId": "GameSpace",
       "SourceType": "Discovered",
@@ -1487,6 +1466,27 @@
       "OriginalItemSpec": "wwwroot\\img\\GameSpace Light.png"
     },
     {
+      "Identity": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\GameSpaceDark.png",
+      "SourceId": "GameSpace",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\",
+      "BasePath": "_content/GameSpace",
+      "RelativePath": "img/GameSpaceDark#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "86up1taolf",
+      "Integrity": "ADqOpBcx01trRBrO5bzx9W+amJfp/G3x1TNYTAJcGcA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\GameSpaceDark.png"
+    },
+    {
       "Identity": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Consoles\\atariLogo.png",
       "SourceId": "GameSpace",
       "SourceType": "Discovered",
@@ -1501,8 +1501,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "kv12bgw3h0",
-      "Integrity": "AGET+ruYloojvSWFdTHA/XWVG5BBC79JrJ2kGowyfF8=",
+      "Fingerprint": "ayymcg63f9",
+      "Integrity": "ckbmkARSk0NJQLsLcdgZiX0hMiZOkKFG4gD9/9jFPaQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Logos_Fabricantes_Consoles\\atariLogo.png"
@@ -1543,8 +1543,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "cumtbrzjjz",
-      "Integrity": "HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE=",
+      "Fingerprint": "7fpavwl269",
+      "Integrity": "M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Logos_Fabricantes_Consoles\\nintendoLogo.png"
@@ -1690,8 +1690,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "cumtbrzjjz",
-      "Integrity": "HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE=",
+      "Fingerprint": "7fpavwl269",
+      "Integrity": "M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Logos_Fabricantes_Jogos\\nintendoLogo.png"
@@ -3085,13 +3085,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-b9sayid5wm.gz",
+      "Route": "css/site.697w2n1baq.css",
+      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-697w2n1baq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.002421307506"
         }
       ],
       "ResponseHeaders": [
@@ -3101,15 +3101,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "412"
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 23:10:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3129,13 +3129,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "697w2n1baq"
         },
         {
           "Name": "label",
@@ -3143,12 +3143,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.697w2n1baq.css",
       "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3158,7 +3158,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "837"
         },
         {
           "Name": "Content-Type",
@@ -3166,11 +3166,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 23:10:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3180,7 +3180,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "697w2n1baq"
         },
         {
           "Name": "label",
@@ -3188,13 +3188,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-b9sayid5wm.gz",
+      "Route": "css/site.697w2n1baq.css.gz",
+      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-697w2n1baq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3203,7 +3203,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "412"
         },
         {
           "Name": "Content-Type",
@@ -3211,11 +3211,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 23:10:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3233,7 +3233,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "697w2n1baq"
         },
         {
           "Name": "label",
@@ -3241,18 +3241,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-697w2n1baq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.002421307506"
         }
       ],
       "ResponseHeaders": [
@@ -3262,15 +3262,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "412"
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 23:10:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3290,13 +3290,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE="
         }
       ]
     },
@@ -3311,7 +3311,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "837"
         },
         {
           "Name": "Content-Type",
@@ -3319,11 +3319,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 23:10:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3333,13 +3333,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-697w2n1baq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3348,7 +3348,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "412"
         },
         {
           "Name": "Content-Type",
@@ -3356,11 +3356,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 23:10:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3378,7 +3378,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I="
         }
       ]
     },
@@ -4277,88 +4277,6 @@
       ]
     },
     {
-      "Route": "img/GameSpace Dark.0nfym6ww0u.png",
-      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\GameSpace Dark.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7769"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rDFeyyN00Jhs7aWkMTx/TXzqAGLLY5/odIhmdIoRvj0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0nfym6ww0u"
-        },
-        {
-          "Name": "label",
-          "Value": "img/GameSpace Dark.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rDFeyyN00Jhs7aWkMTx/TXzqAGLLY5/odIhmdIoRvj0="
-        }
-      ]
-    },
-    {
-      "Route": "img/GameSpace Dark.png",
-      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\GameSpace Dark.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7769"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rDFeyyN00Jhs7aWkMTx/TXzqAGLLY5/odIhmdIoRvj0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rDFeyyN00Jhs7aWkMTx/TXzqAGLLY5/odIhmdIoRvj0="
-        }
-      ]
-    },
-    {
       "Route": "img/GameSpace Light.ajy8lqva9c.png",
       "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\GameSpace Light.png",
       "Selectors": [],
@@ -4441,8 +4359,8 @@
       ]
     },
     {
-      "Route": "img/Logos_Fabricantes_Consoles/atariLogo.kv12bgw3h0.png",
-      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Consoles\\atariLogo.png",
+      "Route": "img/GameSpaceDark.86up1taolf.png",
+      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\GameSpaceDark.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4451,7 +4369,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5383"
+          "Value": "21878"
         },
         {
           "Name": "Content-Type",
@@ -4459,11 +4377,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AGET+ruYloojvSWFdTHA/XWVG5BBC79JrJ2kGowyfF8=\""
+          "Value": "\"ADqOpBcx01trRBrO5bzx9W+amJfp/G3x1TNYTAJcGcA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 23:13:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4473,7 +4391,89 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kv12bgw3h0"
+          "Value": "86up1taolf"
+        },
+        {
+          "Name": "label",
+          "Value": "img/GameSpaceDark.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ADqOpBcx01trRBrO5bzx9W+amJfp/G3x1TNYTAJcGcA="
+        }
+      ]
+    },
+    {
+      "Route": "img/GameSpaceDark.png",
+      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\GameSpaceDark.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21878"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ADqOpBcx01trRBrO5bzx9W+amJfp/G3x1TNYTAJcGcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:13:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ADqOpBcx01trRBrO5bzx9W+amJfp/G3x1TNYTAJcGcA="
+        }
+      ]
+    },
+    {
+      "Route": "img/Logos_Fabricantes_Consoles/atariLogo.ayymcg63f9.png",
+      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Consoles\\atariLogo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ckbmkARSk0NJQLsLcdgZiX0hMiZOkKFG4gD9/9jFPaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 22:32:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ayymcg63f9"
         },
         {
           "Name": "label",
@@ -4481,7 +4481,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AGET+ruYloojvSWFdTHA/XWVG5BBC79JrJ2kGowyfF8="
+          "Value": "sha256-ckbmkARSk0NJQLsLcdgZiX0hMiZOkKFG4gD9/9jFPaQ="
         }
       ]
     },
@@ -4496,7 +4496,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5383"
+          "Value": "15198"
         },
         {
           "Name": "Content-Type",
@@ -4504,11 +4504,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AGET+ruYloojvSWFdTHA/XWVG5BBC79JrJ2kGowyfF8=\""
+          "Value": "\"ckbmkARSk0NJQLsLcdgZiX0hMiZOkKFG4gD9/9jFPaQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 22:32:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4518,7 +4518,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AGET+ruYloojvSWFdTHA/XWVG5BBC79JrJ2kGowyfF8="
+          "Value": "sha256-ckbmkARSk0NJQLsLcdgZiX0hMiZOkKFG4gD9/9jFPaQ="
         }
       ]
     },
@@ -4605,7 +4605,7 @@
       ]
     },
     {
-      "Route": "img/Logos_Fabricantes_Consoles/nintendoLogo.cumtbrzjjz.png",
+      "Route": "img/Logos_Fabricantes_Consoles/nintendoLogo.7fpavwl269.png",
       "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Consoles\\nintendoLogo.png",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4615,7 +4615,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "76587"
+          "Value": "135408"
         },
         {
           "Name": "Content-Type",
@@ -4623,11 +4623,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE=\""
+          "Value": "\"M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 22:29:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4637,7 +4637,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cumtbrzjjz"
+          "Value": "7fpavwl269"
         },
         {
           "Name": "label",
@@ -4645,7 +4645,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE="
+          "Value": "sha256-M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58="
         }
       ]
     },
@@ -4660,7 +4660,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "76587"
+          "Value": "135408"
         },
         {
           "Name": "Content-Type",
@@ -4668,11 +4668,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE=\""
+          "Value": "\"M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 22:29:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4682,7 +4682,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE="
+          "Value": "sha256-M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58="
         }
       ]
     },
@@ -5179,7 +5179,7 @@
       ]
     },
     {
-      "Route": "img/Logos_Fabricantes_Jogos/nintendoLogo.cumtbrzjjz.png",
+      "Route": "img/Logos_Fabricantes_Jogos/nintendoLogo.7fpavwl269.png",
       "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Jogos\\nintendoLogo.png",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5189,7 +5189,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "76587"
+          "Value": "135408"
         },
         {
           "Name": "Content-Type",
@@ -5197,11 +5197,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE=\""
+          "Value": "\"M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 22:29:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5211,7 +5211,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cumtbrzjjz"
+          "Value": "7fpavwl269"
         },
         {
           "Name": "label",
@@ -5219,7 +5219,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE="
+          "Value": "sha256-M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58="
         }
       ]
     },
@@ -5234,7 +5234,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "76587"
+          "Value": "135408"
         },
         {
           "Name": "Content-Type",
@@ -5242,11 +5242,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE=\""
+          "Value": "\"M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 22:29:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5256,7 +5256,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE="
+          "Value": "sha256-M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58="
         }
       ]
     },

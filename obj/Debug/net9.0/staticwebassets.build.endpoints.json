@@ -383,13 +383,13 @@
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.697w2n1baq.css",
       "AssetFile": "css/site.css.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.002421307506"
         }
       ],
       "ResponseHeaders": [
@@ -407,7 +407,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "412"
         },
         {
           "Name": "Content-Type",
@@ -415,15 +415,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 23:10:09 GMT"
         },
         {
           "Name": "Vary",
@@ -433,11 +433,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "697w2n1baq"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE="
         },
         {
           "Name": "label",
@@ -446,7 +446,7 @@
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.697w2n1baq.css",
       "AssetFile": "css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -460,7 +460,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "837"
         },
         {
           "Name": "Content-Type",
@@ -468,21 +468,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 23:10:09 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "697w2n1baq"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE="
         },
         {
           "Name": "label",
@@ -491,7 +491,7 @@
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
+      "Route": "css/site.697w2n1baq.css.gz",
       "AssetFile": "css/site.css.gz",
       "Selectors": [],
       "ResponseHeaders": [
@@ -509,7 +509,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "412"
         },
         {
           "Name": "Content-Type",
@@ -517,11 +517,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 23:10:09 GMT"
         },
         {
           "Name": "Vary",
@@ -531,11 +531,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "697w2n1baq"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I="
         },
         {
           "Name": "label",
@@ -550,7 +550,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.002421307506"
         }
       ],
       "ResponseHeaders": [
@@ -568,7 +568,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "412"
         },
         {
           "Name": "Content-Type",
@@ -576,15 +576,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 23:10:09 GMT"
         },
         {
           "Name": "Vary",
@@ -594,7 +594,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE="
         }
       ]
     },
@@ -613,7 +613,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "837"
         },
         {
           "Name": "Content-Type",
@@ -621,17 +621,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 23:10:09 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE="
         }
       ]
     },
@@ -654,7 +654,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "412"
         },
         {
           "Name": "Content-Type",
@@ -662,11 +662,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 23:10:09 GMT"
         },
         {
           "Name": "Vary",
@@ -676,7 +676,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I="
         }
       ]
     },
@@ -979,88 +979,6 @@
       ]
     },
     {
-      "Route": "img/GameSpace Dark.0nfym6ww0u.png",
-      "AssetFile": "img/GameSpace Dark.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7769"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rDFeyyN00Jhs7aWkMTx/TXzqAGLLY5/odIhmdIoRvj0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0nfym6ww0u"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rDFeyyN00Jhs7aWkMTx/TXzqAGLLY5/odIhmdIoRvj0="
-        },
-        {
-          "Name": "label",
-          "Value": "img/GameSpace Dark.png"
-        }
-      ]
-    },
-    {
-      "Route": "img/GameSpace Dark.png",
-      "AssetFile": "img/GameSpace Dark.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7769"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rDFeyyN00Jhs7aWkMTx/TXzqAGLLY5/odIhmdIoRvj0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rDFeyyN00Jhs7aWkMTx/TXzqAGLLY5/odIhmdIoRvj0="
-        }
-      ]
-    },
-    {
       "Route": "img/GameSpace Light.ajy8lqva9c.png",
       "AssetFile": "img/GameSpace Light.png",
       "Selectors": [],
@@ -1143,7 +1061,89 @@
       ]
     },
     {
-      "Route": "img/Logos_Fabricantes_Consoles/atariLogo.kv12bgw3h0.png",
+      "Route": "img/GameSpaceDark.86up1taolf.png",
+      "AssetFile": "img/GameSpaceDark.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21878"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ADqOpBcx01trRBrO5bzx9W+amJfp/G3x1TNYTAJcGcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:13:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "86up1taolf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ADqOpBcx01trRBrO5bzx9W+amJfp/G3x1TNYTAJcGcA="
+        },
+        {
+          "Name": "label",
+          "Value": "img/GameSpaceDark.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/GameSpaceDark.png",
+      "AssetFile": "img/GameSpaceDark.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21878"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ADqOpBcx01trRBrO5bzx9W+amJfp/G3x1TNYTAJcGcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:13:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ADqOpBcx01trRBrO5bzx9W+amJfp/G3x1TNYTAJcGcA="
+        }
+      ]
+    },
+    {
+      "Route": "img/Logos_Fabricantes_Consoles/atariLogo.ayymcg63f9.png",
       "AssetFile": "img/Logos_Fabricantes_Consoles/atariLogo.png",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1157,7 +1157,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5383"
+          "Value": "15198"
         },
         {
           "Name": "Content-Type",
@@ -1165,21 +1165,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AGET+ruYloojvSWFdTHA/XWVG5BBC79JrJ2kGowyfF8=\""
+          "Value": "\"ckbmkARSk0NJQLsLcdgZiX0hMiZOkKFG4gD9/9jFPaQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 22:32:20 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kv12bgw3h0"
+          "Value": "ayymcg63f9"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AGET+ruYloojvSWFdTHA/XWVG5BBC79JrJ2kGowyfF8="
+          "Value": "sha256-ckbmkARSk0NJQLsLcdgZiX0hMiZOkKFG4gD9/9jFPaQ="
         },
         {
           "Name": "label",
@@ -1202,7 +1202,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5383"
+          "Value": "15198"
         },
         {
           "Name": "Content-Type",
@@ -1210,17 +1210,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AGET+ruYloojvSWFdTHA/XWVG5BBC79JrJ2kGowyfF8=\""
+          "Value": "\"ckbmkARSk0NJQLsLcdgZiX0hMiZOkKFG4gD9/9jFPaQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 22:32:20 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AGET+ruYloojvSWFdTHA/XWVG5BBC79JrJ2kGowyfF8="
+          "Value": "sha256-ckbmkARSk0NJQLsLcdgZiX0hMiZOkKFG4gD9/9jFPaQ="
         }
       ]
     },
@@ -1307,7 +1307,7 @@
       ]
     },
     {
-      "Route": "img/Logos_Fabricantes_Consoles/nintendoLogo.cumtbrzjjz.png",
+      "Route": "img/Logos_Fabricantes_Consoles/nintendoLogo.7fpavwl269.png",
       "AssetFile": "img/Logos_Fabricantes_Consoles/nintendoLogo.png",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1321,7 +1321,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "76587"
+          "Value": "135408"
         },
         {
           "Name": "Content-Type",
@@ -1329,21 +1329,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE=\""
+          "Value": "\"M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 22:29:00 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cumtbrzjjz"
+          "Value": "7fpavwl269"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE="
+          "Value": "sha256-M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58="
         },
         {
           "Name": "label",
@@ -1366,7 +1366,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "76587"
+          "Value": "135408"
         },
         {
           "Name": "Content-Type",
@@ -1374,17 +1374,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE=\""
+          "Value": "\"M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 22:29:00 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE="
+          "Value": "sha256-M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58="
         }
       ]
     },
@@ -1881,7 +1881,7 @@
       ]
     },
     {
-      "Route": "img/Logos_Fabricantes_Jogos/nintendoLogo.cumtbrzjjz.png",
+      "Route": "img/Logos_Fabricantes_Jogos/nintendoLogo.7fpavwl269.png",
       "AssetFile": "img/Logos_Fabricantes_Jogos/nintendoLogo.png",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1895,7 +1895,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "76587"
+          "Value": "135408"
         },
         {
           "Name": "Content-Type",
@@ -1903,21 +1903,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE=\""
+          "Value": "\"M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 22:29:00 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cumtbrzjjz"
+          "Value": "7fpavwl269"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE="
+          "Value": "sha256-M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58="
         },
         {
           "Name": "label",
@@ -1940,7 +1940,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "76587"
+          "Value": "135408"
         },
         {
           "Name": "Content-Type",
@@ -1948,17 +1948,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE=\""
+          "Value": "\"M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 21:52:22 GMT"
+          "Value": "Mon, 27 Oct 2025 22:29:00 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE="
+          "Value": "sha256-M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58="
         }
       ]
     },

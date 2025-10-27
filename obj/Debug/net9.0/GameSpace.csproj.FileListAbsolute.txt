@@ -107,7 +107,6 @@ C:\Users\User\Downloads\GameSpace\obj\Debug\net9.0\GameSpace.sourcelink.json
 C:\Users\User\Downloads\GameSpace\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\User\Downloads\GameSpace\obj\Debug\net9.0\scopedcss\bundle\GameSpace.styles.css
 C:\Users\User\Downloads\GameSpace\obj\Debug\net9.0\scopedcss\projectbundle\GameSpace.bundle.scp.css
-C:\Users\User\Downloads\GameSpace\obj\Debug\net9.0\compressed\kh19ne6byw-b9sayid5wm.gz
 C:\Users\User\Downloads\GameSpace\obj\Debug\net9.0\compressed\k51k6vvzfx-61n19gt1b8.gz
 C:\Users\User\Downloads\GameSpace\obj\Debug\net9.0\compressed\uahk9yyyxh-xtxxf3hu2r.gz
 C:\Users\User\Downloads\GameSpace\obj\Debug\net9.0\compressed\9vrku991fn-c2jlpeoesf.gz
@@ -378,3 +377,4 @@ C:\Users\User\Downloads\GameSpace\obj\Debug\net9.0\staticwebassets\msbuild.build
 C:\Users\User\Downloads\GameSpace\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.GameSpace.props
 C:\Users\User\Downloads\GameSpace\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.GameSpace.props
 C:\Users\User\Downloads\GameSpace\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\User\Downloads\GameSpace\obj\Debug\net9.0\compressed\kh19ne6byw-697w2n1baq.gz
