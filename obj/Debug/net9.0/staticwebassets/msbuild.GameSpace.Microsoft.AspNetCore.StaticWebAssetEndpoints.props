@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/GameSpace/css/site.b9sayid5wm.css">
+    <StaticWebAssetEndpoint Include="_content/GameSpace/css/site.697w2n1baq.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b9sayid5wm"},{"Name":"integrity","Value":"sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="},{"Name":"label","Value":"_content/GameSpace/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"667"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 21:52:22 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"697w2n1baq"},{"Name":"integrity","Value":"sha256-urps2j3MtmcMBxD3PodveM5FPea4PRL\u002BNnC1Kef0TaE="},{"Name":"label","Value":"_content/GameSpace/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"837"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022urps2j3MtmcMBxD3PodveM5FPea4PRL\u002BNnC1Kef0TaE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:10:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"667"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 21:52:22 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-urps2j3MtmcMBxD3PodveM5FPea4PRL\u002BNnC1Kef0TaE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"837"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022urps2j3MtmcMBxD3PodveM5FPea4PRL\u002BNnC1Kef0TaE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:10:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -36,18 +36,6 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"htxsh45e5l"},{"Name":"integrity","Value":"sha256-y1RRR8RvkeXKSMkdBXUEG1BeJ1mDOBLVN4Zwcj0WxQo="},{"Name":"label","Value":"_content/GameSpace/GameSpace.bundle.scp.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1127"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022y1RRR8RvkeXKSMkdBXUEG1BeJ1mDOBLVN4Zwcj0WxQo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 21:52:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GameSpace/img/GameSpace Dark.0nfym6ww0u.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\GameSpace Dark.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0nfym6ww0u"},{"Name":"integrity","Value":"sha256-rDFeyyN00Jhs7aWkMTx/TXzqAGLLY5/odIhmdIoRvj0="},{"Name":"label","Value":"_content/GameSpace/img/GameSpace Dark.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7769"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rDFeyyN00Jhs7aWkMTx/TXzqAGLLY5/odIhmdIoRvj0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 21:52:22 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GameSpace/img/GameSpace Dark.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\GameSpace Dark.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rDFeyyN00Jhs7aWkMTx/TXzqAGLLY5/odIhmdIoRvj0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7769"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rDFeyyN00Jhs7aWkMTx/TXzqAGLLY5/odIhmdIoRvj0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 21:52:22 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/GameSpace Light.ajy8lqva9c.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\GameSpace Light.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -60,17 +48,29 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1q2fZG/7ooEBNameT50qXBayJ5hO1uYJqsxY0tBWa04="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7990"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00221q2fZG/7ooEBNameT50qXBayJ5hO1uYJqsxY0tBWa04=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 21:52:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Logos_Fabricantes_Consoles/atariLogo.kv12bgw3h0.png">
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/GameSpaceDark.86up1taolf.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\GameSpaceDark.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"86up1taolf"},{"Name":"integrity","Value":"sha256-ADqOpBcx01trRBrO5bzx9W\u002BamJfp/G3x1TNYTAJcGcA="},{"Name":"label","Value":"_content/GameSpace/img/GameSpaceDark.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"21878"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ADqOpBcx01trRBrO5bzx9W\u002BamJfp/G3x1TNYTAJcGcA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:13:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/GameSpaceDark.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\GameSpaceDark.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ADqOpBcx01trRBrO5bzx9W\u002BamJfp/G3x1TNYTAJcGcA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"21878"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ADqOpBcx01trRBrO5bzx9W\u002BamJfp/G3x1TNYTAJcGcA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:13:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Logos_Fabricantes_Consoles/atariLogo.ayymcg63f9.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Logos_Fabricantes_Consoles\atariLogo.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kv12bgw3h0"},{"Name":"integrity","Value":"sha256-AGET\u002BruYloojvSWFdTHA/XWVG5BBC79JrJ2kGowyfF8="},{"Name":"label","Value":"_content/GameSpace/img/Logos_Fabricantes_Consoles/atariLogo.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5383"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022AGET\u002BruYloojvSWFdTHA/XWVG5BBC79JrJ2kGowyfF8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 21:52:22 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ayymcg63f9"},{"Name":"integrity","Value":"sha256-ckbmkARSk0NJQLsLcdgZiX0hMiZOkKFG4gD9/9jFPaQ="},{"Name":"label","Value":"_content/GameSpace/img/Logos_Fabricantes_Consoles/atariLogo.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15198"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ckbmkARSk0NJQLsLcdgZiX0hMiZOkKFG4gD9/9jFPaQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 22:32:20 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/Logos_Fabricantes_Consoles/atariLogo.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Logos_Fabricantes_Consoles\atariLogo.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AGET\u002BruYloojvSWFdTHA/XWVG5BBC79JrJ2kGowyfF8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5383"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022AGET\u002BruYloojvSWFdTHA/XWVG5BBC79JrJ2kGowyfF8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 21:52:22 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ckbmkARSk0NJQLsLcdgZiX0hMiZOkKFG4gD9/9jFPaQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15198"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ckbmkARSk0NJQLsLcdgZiX0hMiZOkKFG4gD9/9jFPaQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 22:32:20 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/Logos_Fabricantes_Consoles/microsoftLogo.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Logos_Fabricantes_Consoles\microsoftLogo.png'))</AssetFile>
@@ -84,17 +84,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vorbwcqoej"},{"Name":"integrity","Value":"sha256-ES/seYt4qgLhAqcktcsZkMD5Cbwdi3sfolbqtBu8CWA="},{"Name":"label","Value":"_content/GameSpace/img/Logos_Fabricantes_Consoles/microsoftLogo.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4054"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ES/seYt4qgLhAqcktcsZkMD5Cbwdi3sfolbqtBu8CWA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 21:52:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Logos_Fabricantes_Consoles/nintendoLogo.cumtbrzjjz.png">
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Logos_Fabricantes_Consoles/nintendoLogo.7fpavwl269.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Logos_Fabricantes_Consoles\nintendoLogo.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cumtbrzjjz"},{"Name":"integrity","Value":"sha256-HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE="},{"Name":"label","Value":"_content/GameSpace/img/Logos_Fabricantes_Consoles/nintendoLogo.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"76587"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 21:52:22 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7fpavwl269"},{"Name":"integrity","Value":"sha256-M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58="},{"Name":"label","Value":"_content/GameSpace/img/Logos_Fabricantes_Consoles/nintendoLogo.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"135408"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 22:29:00 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/Logos_Fabricantes_Consoles/nintendoLogo.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Logos_Fabricantes_Consoles\nintendoLogo.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"76587"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 21:52:22 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"135408"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 22:29:00 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/Logos_Fabricantes_Consoles/segaLogo.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Logos_Fabricantes_Consoles\segaLogo.png'))</AssetFile>
@@ -168,17 +168,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vorbwcqoej"},{"Name":"integrity","Value":"sha256-ES/seYt4qgLhAqcktcsZkMD5Cbwdi3sfolbqtBu8CWA="},{"Name":"label","Value":"_content/GameSpace/img/Logos_Fabricantes_Jogos/microsoftLogo.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4054"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ES/seYt4qgLhAqcktcsZkMD5Cbwdi3sfolbqtBu8CWA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 21:52:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Logos_Fabricantes_Jogos/nintendoLogo.cumtbrzjjz.png">
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Logos_Fabricantes_Jogos/nintendoLogo.7fpavwl269.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Logos_Fabricantes_Jogos\nintendoLogo.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cumtbrzjjz"},{"Name":"integrity","Value":"sha256-HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE="},{"Name":"label","Value":"_content/GameSpace/img/Logos_Fabricantes_Jogos/nintendoLogo.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"76587"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 21:52:22 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7fpavwl269"},{"Name":"integrity","Value":"sha256-M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58="},{"Name":"label","Value":"_content/GameSpace/img/Logos_Fabricantes_Jogos/nintendoLogo.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"135408"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 22:29:00 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/Logos_Fabricantes_Jogos/nintendoLogo.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Logos_Fabricantes_Jogos\nintendoLogo.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"76587"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022HMDETvM7B6XyfrTv86Mq7w45DaFK1RNaqgesS2poBoE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 21:52:22 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"135408"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022M24pQCdeGMUU7oiaKmnpmfwHywozk22gr1F1fGhLq58=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 22:29:00 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/Logos_Fabricantes_Jogos/rockstarGamesLogo.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Logos_Fabricantes_Jogos\rockstarGamesLogo.png'))</AssetFile>

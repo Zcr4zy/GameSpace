@@ -17,12 +17,12 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\GameSpace Dark.png",
-      "PackagePath": "staticwebassets\\img\\GameSpace Dark.png"
-    },
-    {
       "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\GameSpace Light.png",
       "PackagePath": "staticwebassets\\img\\GameSpace Light.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\GameSpaceDark.png",
+      "PackagePath": "staticwebassets\\img\\GameSpaceDark.png"
     },
     {
       "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Consoles\\atariLogo.png",
