@@ -18,8 +18,25 @@ namespace GameSpace.Repository
 
         public List<GameSpace.Models.Console> GetAll()
             => _context.Consoles.Include(i => i.Fabricante).ToList();
-        
-        
-        
+
+        public Models.Console GetById(int Id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void AddConsole(Models.Console Console)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void UpdateConsole(Models.Console Console)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void DeleteConsole(int Id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
