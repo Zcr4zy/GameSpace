@@ -44,3 +44,11 @@ body {
   width: 300px; 
   height: 100px;
 }
+
+.card {
+  transition: border 1s ease ;
+}
+
+.card:hover{
+  border: 2px solid white;
+}

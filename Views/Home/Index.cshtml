@@ -1,20 +1,21 @@
 ﻿@model List<GameSpace.Models.Console>
 
-@* <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div> *@
-
-@foreach(var console in Model){
-    <div class="card" style="width: 18rem;">
-    <img src="~/img/" class="card-img-top" alt="Imagem do card">
-    <div class="card-body">
-        <h5 class="card-title">@console.Nome</h5>
-        <p class="card-text">@console.Descricao</p>
-        <p class="card-text">@console.DataLancamento - @console.Geracao</p>
-        <a href="#" class="btn btn-primary">Ação</a>
+<div class="container my-4">
+    <div class="row g-4">
+        @foreach (var console in Model)
+        {
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <a href="https://youtube.com" style="text-decoration: none;">
+                    <div class="card h-100" style="width: 100%; background-color: #1b1630; color: #fff; border: none;">
+                        <img src="@console.Imagem" class="card-img-top img-fluid" style="height:180px;" alt="Imagem do console">
+                        <div class="card-body">
+                            <h5 class="card-title">@console.Nome</h5>
+                            <p class="card-text">@console.Descricao</p>
+                            <p class="card-text"><small>@console.DataLancamento - @console.Geracao</small></p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        }
     </div>
-    </div>
-
-}
-
+</div>

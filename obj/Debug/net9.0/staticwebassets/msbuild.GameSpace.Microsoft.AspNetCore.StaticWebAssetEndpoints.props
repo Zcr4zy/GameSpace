@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/GameSpace/css/site.697w2n1baq.css">
+    <StaticWebAssetEndpoint Include="_content/GameSpace/css/site.bdqlvx9kro.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"697w2n1baq"},{"Name":"integrity","Value":"sha256-urps2j3MtmcMBxD3PodveM5FPea4PRL\u002BNnC1Kef0TaE="},{"Name":"label","Value":"_content/GameSpace/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"837"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022urps2j3MtmcMBxD3PodveM5FPea4PRL\u002BNnC1Kef0TaE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:10:09 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bdqlvx9kro"},{"Name":"integrity","Value":"sha256-v6toUv9N8SJfZDK0M72s4D6QftjtpsSBHVbGclEqDPQ="},{"Name":"label","Value":"_content/GameSpace/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"918"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022v6toUv9N8SJfZDK0M72s4D6QftjtpsSBHVbGclEqDPQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:19:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-urps2j3MtmcMBxD3PodveM5FPea4PRL\u002BNnC1Kef0TaE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"837"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022urps2j3MtmcMBxD3PodveM5FPea4PRL\u002BNnC1Kef0TaE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:10:09 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-v6toUv9N8SJfZDK0M72s4D6QftjtpsSBHVbGclEqDPQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"918"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022v6toUv9N8SJfZDK0M72s4D6QftjtpsSBHVbGclEqDPQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:19:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -36,6 +36,138 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"htxsh45e5l"},{"Name":"integrity","Value":"sha256-y1RRR8RvkeXKSMkdBXUEG1BeJ1mDOBLVN4Zwcj0WxQo="},{"Name":"label","Value":"_content/GameSpace/GameSpace.bundle.scp.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1127"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022y1RRR8RvkeXKSMkdBXUEG1BeJ1mDOBLVN4Zwcj0WxQo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 21:52:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"374744"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation1.t0zeth8bwj.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t0zeth8bwj"},{"Name":"integrity","Value":"sha256-M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/playStation1.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"374744"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3\u002B//Qq4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"153394"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3\u002B//Qq4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation2.v8d2w6jhjx.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v8d2w6jhjx"},{"Name":"integrity","Value":"sha256-cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3\u002B//Qq4="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/playStation2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"153394"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3\u002B//Qq4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation3.5jq7wsdmgr.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5jq7wsdmgr"},{"Name":"integrity","Value":"sha256-7x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/playStation3.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"115321"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00227x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"115321"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00227x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation4.fw151uau04.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation4.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fw151uau04"},{"Name":"integrity","Value":"sha256-35GOpersJc8b0sbyEB4ElUZodOP4Hmi2rYo6lUKrXmA="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/playStation4.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"280488"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002235GOpersJc8b0sbyEB4ElUZodOP4Hmi2rYo6lUKrXmA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation4.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation4.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-35GOpersJc8b0sbyEB4ElUZodOP4Hmi2rYo6lUKrXmA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"280488"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002235GOpersJc8b0sbyEB4ElUZodOP4Hmi2rYo6lUKrXmA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation5.kb601qv7s5.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation5.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kb601qv7s5"},{"Name":"integrity","Value":"sha256-AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/playStation5.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37076"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation5.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation5.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"37076"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStationPortable.mjuc0nexe6.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStationPortable.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mjuc0nexe6"},{"Name":"integrity","Value":"sha256-Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/playStationPortable.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1228850"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStationPortable.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStationPortable.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1228850"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStationVita.pgh83zn4ym.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStationVita.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pgh83zn4ym"},{"Name":"integrity","Value":"sha256-acn0SidTyjZhNT2kuo1xwSzJ4MLjMCCHHlLaNU\u002BaZbM="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/playStationVita.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15404873"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022acn0SidTyjZhNT2kuo1xwSzJ4MLjMCCHHlLaNU\u002BaZbM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStationVita.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStationVita.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-acn0SidTyjZhNT2kuo1xwSzJ4MLjMCCHHlLaNU\u002BaZbM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15404873"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022acn0SidTyjZhNT2kuo1xwSzJ4MLjMCCHHlLaNU\u002BaZbM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/xbox.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\xbox.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WZn6PPvOiKeAxKh\u002BJux2fftBFZsCdR0A3uqm5TpsZsE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2437436"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WZn6PPvOiKeAxKh\u002BJux2fftBFZsCdR0A3uqm5TpsZsE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/xbox.vy8tkgc4o0.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\xbox.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vy8tkgc4o0"},{"Name":"integrity","Value":"sha256-WZn6PPvOiKeAxKh\u002BJux2fftBFZsCdR0A3uqm5TpsZsE="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/xbox.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2437436"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WZn6PPvOiKeAxKh\u002BJux2fftBFZsCdR0A3uqm5TpsZsE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/xbox360.c1sddvw85k.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\xbox360.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c1sddvw85k"},{"Name":"integrity","Value":"sha256-0CfG0XTt267\u002B9/gMhoJ\u002BazNT42IbQ9cAwAMCWmVmO2Y="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/xbox360.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1392293"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00220CfG0XTt267\u002B9/gMhoJ\u002BazNT42IbQ9cAwAMCWmVmO2Y=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/xbox360.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\xbox360.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0CfG0XTt267\u002B9/gMhoJ\u002BazNT42IbQ9cAwAMCWmVmO2Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1392293"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00220CfG0XTt267\u002B9/gMhoJ\u002BazNT42IbQ9cAwAMCWmVmO2Y=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/xboxOne.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\xboxOne.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KuCGyiLfgxnerhjmFZIMVgEYTSXtYwPiBvTkKpiBvko="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"37082"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022KuCGyiLfgxnerhjmFZIMVgEYTSXtYwPiBvTkKpiBvko=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/xboxOne.uecw5tqfsd.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\xboxOne.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uecw5tqfsd"},{"Name":"integrity","Value":"sha256-KuCGyiLfgxnerhjmFZIMVgEYTSXtYwPiBvTkKpiBvko="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/xboxOne.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37082"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022KuCGyiLfgxnerhjmFZIMVgEYTSXtYwPiBvTkKpiBvko=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/xboxSeriesX.o1myqp7jpv.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\xboxSeriesX.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o1myqp7jpv"},{"Name":"integrity","Value":"sha256-HDLKhq4jQEMgixYPHGu\u002BK\u002BfDoSJZ5ur99lJZSbbRg4g="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/xboxSeriesX.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"374692"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022HDLKhq4jQEMgixYPHGu\u002BK\u002BfDoSJZ5ur99lJZSbbRg4g=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/xboxSeriesX.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\xboxSeriesX.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HDLKhq4jQEMgixYPHGu\u002BK\u002BfDoSJZ5ur99lJZSbbRg4g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"374692"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022HDLKhq4jQEMgixYPHGu\u002BK\u002BfDoSJZ5ur99lJZSbbRg4g=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/GameSpace Light.ajy8lqva9c.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\GameSpace Light.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -59,6 +191,462 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ADqOpBcx01trRBrO5bzx9W\u002BamJfp/G3x1TNYTAJcGcA="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"21878"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ADqOpBcx01trRBrO5bzx9W\u002BamJfp/G3x1TNYTAJcGcA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:13:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/Bully.n8fgzoafk5.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\Bully.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n8fgzoafk5"},{"Name":"integrity","Value":"sha256-J3Qw1nHIzBFTDA0InL5we5esW0OXYQMZ9JKVvXYsQkY="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/Bully.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"119289"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022J3Qw1nHIzBFTDA0InL5we5esW0OXYQMZ9JKVvXYsQkY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/Bully.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\Bully.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-J3Qw1nHIzBFTDA0InL5we5esW0OXYQMZ9JKVvXYsQkY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"119289"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022J3Qw1nHIzBFTDA0InL5we5esW0OXYQMZ9JKVvXYsQkY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/FarCry.66k8nktyv3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\FarCry.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"66k8nktyv3"},{"Name":"integrity","Value":"sha256-4lCTNJuXKweOxemM\u002BXGLO78ekzrSx2LF\u002BI83J34ZXTQ="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/FarCry.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"189091"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00224lCTNJuXKweOxemM\u002BXGLO78ekzrSx2LF\u002BI83J34ZXTQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/FarCry.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\FarCry.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4lCTNJuXKweOxemM\u002BXGLO78ekzrSx2LF\u002BI83J34ZXTQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"189091"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00224lCTNJuXKweOxemM\u002BXGLO78ekzrSx2LF\u002BI83J34ZXTQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/FarCry2.9r1a9f5u6y.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\FarCry2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9r1a9f5u6y"},{"Name":"integrity","Value":"sha256-ZTwSFHMFqME0Ib\u002BLjc9\u002BL7G3WV3pxN0qVK0b/wvi3Vc="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/FarCry2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"69889"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ZTwSFHMFqME0Ib\u002BLjc9\u002BL7G3WV3pxN0qVK0b/wvi3Vc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/FarCry2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\FarCry2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZTwSFHMFqME0Ib\u002BLjc9\u002BL7G3WV3pxN0qVK0b/wvi3Vc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"69889"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ZTwSFHMFqME0Ib\u002BLjc9\u002BL7G3WV3pxN0qVK0b/wvi3Vc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/FarCry3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\FarCry3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Sdfrnrw26vrPNJUH2p\u002B9QAouiI88fJKArrP1N8W2A7w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"40038"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Sdfrnrw26vrPNJUH2p\u002B9QAouiI88fJKArrP1N8W2A7w=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/FarCry3.veu34qojax.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\FarCry3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"veu34qojax"},{"Name":"integrity","Value":"sha256-Sdfrnrw26vrPNJUH2p\u002B9QAouiI88fJKArrP1N8W2A7w="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/FarCry3.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"40038"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Sdfrnrw26vrPNJUH2p\u002B9QAouiI88fJKArrP1N8W2A7w=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/FarCry4.b5tilos17l.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\FarCry4.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b5tilos17l"},{"Name":"integrity","Value":"sha256-D/kVf2pi4Ph1O1Tp/fp8qaaIRKxPjMACvxxunf1ma/4="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/FarCry4.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"98294"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022D/kVf2pi4Ph1O1Tp/fp8qaaIRKxPjMACvxxunf1ma/4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/FarCry4.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\FarCry4.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-D/kVf2pi4Ph1O1Tp/fp8qaaIRKxPjMACvxxunf1ma/4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"98294"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022D/kVf2pi4Ph1O1Tp/fp8qaaIRKxPjMACvxxunf1ma/4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/FarCry5.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\FarCry5.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YK/kEhW9MPVQT8X6RQ3X3kTv3J8dNHYPp/EgIDPrbu0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"50321"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022YK/kEhW9MPVQT8X6RQ3X3kTv3J8dNHYPp/EgIDPrbu0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/FarCry5.w8q6teb4ti.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\FarCry5.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w8q6teb4ti"},{"Name":"integrity","Value":"sha256-YK/kEhW9MPVQT8X6RQ3X3kTv3J8dNHYPp/EgIDPrbu0="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/FarCry5.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"50321"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022YK/kEhW9MPVQT8X6RQ3X3kTv3J8dNHYPp/EgIDPrbu0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/FarCry6.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\FarCry6.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZAVM2ZiT/JnjZ5wwAIR6aRFVyW/ZLIG6T3Jyc\u002BjqU2s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"63616"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ZAVM2ZiT/JnjZ5wwAIR6aRFVyW/ZLIG6T3Jyc\u002BjqU2s=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/FarCry6.swwom2uh3g.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\FarCry6.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"swwom2uh3g"},{"Name":"integrity","Value":"sha256-ZAVM2ZiT/JnjZ5wwAIR6aRFVyW/ZLIG6T3Jyc\u002BjqU2s="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/FarCry6.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"63616"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ZAVM2ZiT/JnjZ5wwAIR6aRFVyW/ZLIG6T3Jyc\u002BjqU2s=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/FarCryNewDawn.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\FarCryNewDawn.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uPefV8wUhkhGvyewOZovtgWgKuhMaUdfUYyIaFtdLZs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"321606"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022uPefV8wUhkhGvyewOZovtgWgKuhMaUdfUYyIaFtdLZs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/FarCryNewDawn.sfkheawh6m.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\FarCryNewDawn.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sfkheawh6m"},{"Name":"integrity","Value":"sha256-uPefV8wUhkhGvyewOZovtgWgKuhMaUdfUYyIaFtdLZs="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/FarCryNewDawn.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"321606"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022uPefV8wUhkhGvyewOZovtgWgKuhMaUdfUYyIaFtdLZs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/ForzaHorizon.oo2tl7wmli.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\ForzaHorizon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oo2tl7wmli"},{"Name":"integrity","Value":"sha256-KBxeDebfM\u002B7U9DqVHnegFHyxhSz4pcAc8xSWvi5OPhM="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/ForzaHorizon.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"39232"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022KBxeDebfM\u002B7U9DqVHnegFHyxhSz4pcAc8xSWvi5OPhM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/ForzaHorizon.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\ForzaHorizon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KBxeDebfM\u002B7U9DqVHnegFHyxhSz4pcAc8xSWvi5OPhM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"39232"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022KBxeDebfM\u002B7U9DqVHnegFHyxhSz4pcAc8xSWvi5OPhM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/ForzaHorizon2.dhnnhk6kod.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\ForzaHorizon2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dhnnhk6kod"},{"Name":"integrity","Value":"sha256-obdc5zEoBh1lX7ZKLEEMHMd5JhQaNZ8lUQkquN0tjDw="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/ForzaHorizon2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"114929"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022obdc5zEoBh1lX7ZKLEEMHMd5JhQaNZ8lUQkquN0tjDw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/ForzaHorizon2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\ForzaHorizon2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-obdc5zEoBh1lX7ZKLEEMHMd5JhQaNZ8lUQkquN0tjDw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"114929"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022obdc5zEoBh1lX7ZKLEEMHMd5JhQaNZ8lUQkquN0tjDw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/ForzaHorizon3.nkixui9nky.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\ForzaHorizon3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nkixui9nky"},{"Name":"integrity","Value":"sha256-uW0MDiDcV7f/VGRROxNvpkWdA/0XE\u002BIL3l\u002BiogXygBM="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/ForzaHorizon3.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"66573"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022uW0MDiDcV7f/VGRROxNvpkWdA/0XE\u002BIL3l\u002BiogXygBM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/ForzaHorizon3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\ForzaHorizon3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uW0MDiDcV7f/VGRROxNvpkWdA/0XE\u002BIL3l\u002BiogXygBM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"66573"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022uW0MDiDcV7f/VGRROxNvpkWdA/0XE\u002BIL3l\u002BiogXygBM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/ForzaHorizon4.1m01aksjwf.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\ForzaHorizon4.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1m01aksjwf"},{"Name":"integrity","Value":"sha256-p6xJht5xcerXUUv78PkUWHQ/mMwm5\u002BA/A8R31WQUshY="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/ForzaHorizon4.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"36470"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022p6xJht5xcerXUUv78PkUWHQ/mMwm5\u002BA/A8R31WQUshY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/ForzaHorizon4.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\ForzaHorizon4.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-p6xJht5xcerXUUv78PkUWHQ/mMwm5\u002BA/A8R31WQUshY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"36470"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022p6xJht5xcerXUUv78PkUWHQ/mMwm5\u002BA/A8R31WQUshY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/ForzaHorizon5.22gpvc7yrd.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\ForzaHorizon5.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"22gpvc7yrd"},{"Name":"integrity","Value":"sha256-ijy5a\u002BklWJs9OBHGLI9pNt\u002Be\u002BIyubE/bDDpQebjkldw="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/ForzaHorizon5.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"128665"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ijy5a\u002BklWJs9OBHGLI9pNt\u002Be\u002BIyubE/bDDpQebjkldw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/ForzaHorizon5.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\ForzaHorizon5.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ijy5a\u002BklWJs9OBHGLI9pNt\u002Be\u002BIyubE/bDDpQebjkldw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"128665"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ijy5a\u002BklWJs9OBHGLI9pNt\u002Be\u002BIyubE/bDDpQebjkldw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GodOfWar2.ok0rkc75e6.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GodOfWar2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ok0rkc75e6"},{"Name":"integrity","Value":"sha256-qC86NQU2FPJ5IdxONnBY2vv/LHJoYyrxr34EXErTt7M="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/GodOfWar2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"250084"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qC86NQU2FPJ5IdxONnBY2vv/LHJoYyrxr34EXErTt7M=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GodOfWar2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GodOfWar2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qC86NQU2FPJ5IdxONnBY2vv/LHJoYyrxr34EXErTt7M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"250084"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qC86NQU2FPJ5IdxONnBY2vv/LHJoYyrxr34EXErTt7M=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GodOfWar2005.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GodOfWar2005.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OzxkddWIToftZKFl5eUucGyXeWUmImI2kgVPVQUFxbs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"366667"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022OzxkddWIToftZKFl5eUucGyXeWUmImI2kgVPVQUFxbs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GodOfWar2005.x960obwabp.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GodOfWar2005.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x960obwabp"},{"Name":"integrity","Value":"sha256-OzxkddWIToftZKFl5eUucGyXeWUmImI2kgVPVQUFxbs="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/GodOfWar2005.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"366667"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022OzxkddWIToftZKFl5eUucGyXeWUmImI2kgVPVQUFxbs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GodOfWar2018.n5gqkf3u1h.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GodOfWar2018.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n5gqkf3u1h"},{"Name":"integrity","Value":"sha256-tUs/OYulqPfg4ub20tKMrrs9d6XPUjjhWd4A1J0EZec="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/GodOfWar2018.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"446903"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022tUs/OYulqPfg4ub20tKMrrs9d6XPUjjhWd4A1J0EZec=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GodOfWar2018.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GodOfWar2018.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tUs/OYulqPfg4ub20tKMrrs9d6XPUjjhWd4A1J0EZec="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"446903"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022tUs/OYulqPfg4ub20tKMrrs9d6XPUjjhWd4A1J0EZec=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GodOfWar3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GodOfWar3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jullZ1HYpVjYQibWS3G1vEu2\u002BYGF7ZLHx/kJLpeYwh0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"437744"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jullZ1HYpVjYQibWS3G1vEu2\u002BYGF7ZLHx/kJLpeYwh0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GodOfWar3.u9hssxpysg.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GodOfWar3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u9hssxpysg"},{"Name":"integrity","Value":"sha256-jullZ1HYpVjYQibWS3G1vEu2\u002BYGF7ZLHx/kJLpeYwh0="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/GodOfWar3.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"437744"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022jullZ1HYpVjYQibWS3G1vEu2\u002BYGF7ZLHx/kJLpeYwh0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GodOfWarRagnarok.iau8uaxda1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GodOfWarRagnarok.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"iau8uaxda1"},{"Name":"integrity","Value":"sha256-WuFJs1MuG2pK9DzrI0apf67o\u002BvnH8hdRtmpcteo5c\u002B4="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/GodOfWarRagnarok.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"166001"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WuFJs1MuG2pK9DzrI0apf67o\u002BvnH8hdRtmpcteo5c\u002B4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GodOfWarRagnarok.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GodOfWarRagnarok.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WuFJs1MuG2pK9DzrI0apf67o\u002BvnH8hdRtmpcteo5c\u002B4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"166001"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WuFJs1MuG2pK9DzrI0apf67o\u002BvnH8hdRtmpcteo5c\u002B4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GrandTheftAutoIII.44qr58u2fk.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GrandTheftAutoIII.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"44qr58u2fk"},{"Name":"integrity","Value":"sha256-9GGIfmpIXFZoNHhYg/\u002Brl\u002BbnEgiqeytUTxPK7cjX8fI="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/GrandTheftAutoIII.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"337172"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229GGIfmpIXFZoNHhYg/\u002Brl\u002BbnEgiqeytUTxPK7cjX8fI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GrandTheftAutoIII.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GrandTheftAutoIII.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9GGIfmpIXFZoNHhYg/\u002Brl\u002BbnEgiqeytUTxPK7cjX8fI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"337172"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229GGIfmpIXFZoNHhYg/\u002Brl\u002BbnEgiqeytUTxPK7cjX8fI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GrandTheftAutoIV.kco4qk49yf.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GrandTheftAutoIV.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kco4qk49yf"},{"Name":"integrity","Value":"sha256-RP58W1svy\u002BJHSkr66palZsnR1WeVmg9rVsKGZCL/Z4E="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/GrandTheftAutoIV.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"407344"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022RP58W1svy\u002BJHSkr66palZsnR1WeVmg9rVsKGZCL/Z4E=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GrandTheftAutoIV.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GrandTheftAutoIV.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RP58W1svy\u002BJHSkr66palZsnR1WeVmg9rVsKGZCL/Z4E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"407344"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022RP58W1svy\u002BJHSkr66palZsnR1WeVmg9rVsKGZCL/Z4E=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GrandTheftAutoSanAndreas.31e76q2voj.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GrandTheftAutoSanAndreas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"31e76q2voj"},{"Name":"integrity","Value":"sha256-OW/g51hVpNzhaFM60Az3DRRxLyNN0f4Cb0suYixhqW4="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/GrandTheftAutoSanAndreas.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"305997"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022OW/g51hVpNzhaFM60Az3DRRxLyNN0f4Cb0suYixhqW4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GrandTheftAutoSanAndreas.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GrandTheftAutoSanAndreas.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OW/g51hVpNzhaFM60Az3DRRxLyNN0f4Cb0suYixhqW4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"305997"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022OW/g51hVpNzhaFM60Az3DRRxLyNN0f4Cb0suYixhqW4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GrandTheftAutoV.9kv206j14c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GrandTheftAutoV.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9kv206j14c"},{"Name":"integrity","Value":"sha256-SVTCn2gNoktCF\u002BTnsdTj2tKi1jdnsMRT21UWjsFaVEQ="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/GrandTheftAutoV.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"348108"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022SVTCn2gNoktCF\u002BTnsdTj2tKi1jdnsMRT21UWjsFaVEQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GrandTheftAutoV.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GrandTheftAutoV.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SVTCn2gNoktCF\u002BTnsdTj2tKi1jdnsMRT21UWjsFaVEQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"348108"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022SVTCn2gNoktCF\u002BTnsdTj2tKi1jdnsMRT21UWjsFaVEQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GrandTheftAutoViceCity.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GrandTheftAutoViceCity.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mlpbDPiq95B0gjtmAj68vI81wV/uxl\u002BUKGQd\u002BzLQA/A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"278927"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022mlpbDPiq95B0gjtmAj68vI81wV/uxl\u002BUKGQd\u002BzLQA/A=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/GrandTheftAutoViceCity.uv6fqgzfva.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\GrandTheftAutoViceCity.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uv6fqgzfva"},{"Name":"integrity","Value":"sha256-mlpbDPiq95B0gjtmAj68vI81wV/uxl\u002BUKGQd\u002BzLQA/A="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/GrandTheftAutoViceCity.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"278927"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022mlpbDPiq95B0gjtmAj68vI81wV/uxl\u002BUKGQd\u002BzLQA/A=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/Halo2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\Halo2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9M\u002BjnfaTXsToOi3qCQFu7HDq/LaFjiRAD2VTL76iIrw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"57712"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229M\u002BjnfaTXsToOi3qCQFu7HDq/LaFjiRAD2VTL76iIrw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/Halo2.s4mwk1gb07.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\Halo2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s4mwk1gb07"},{"Name":"integrity","Value":"sha256-9M\u002BjnfaTXsToOi3qCQFu7HDq/LaFjiRAD2VTL76iIrw="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/Halo2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"57712"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229M\u002BjnfaTXsToOi3qCQFu7HDq/LaFjiRAD2VTL76iIrw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/Halo3.fwi8yvnvdi.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\Halo3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fwi8yvnvdi"},{"Name":"integrity","Value":"sha256-UYCPAFnPYtnNF5hM\u002BnJ8O0aVkvrsmwOpGeJO\u002BzSTLPY="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/Halo3.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"30376"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022UYCPAFnPYtnNF5hM\u002BnJ8O0aVkvrsmwOpGeJO\u002BzSTLPY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/Halo3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\Halo3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UYCPAFnPYtnNF5hM\u002BnJ8O0aVkvrsmwOpGeJO\u002BzSTLPY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"30376"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022UYCPAFnPYtnNF5hM\u002BnJ8O0aVkvrsmwOpGeJO\u002BzSTLPY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/Halo3ODST.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\Halo3ODST.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-l9Og6t6vflIjhk6T\u002BiiScdz2fIjYcvfRKWn983s7w\u002Bc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"150806"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022l9Og6t6vflIjhk6T\u002BiiScdz2fIjYcvfRKWn983s7w\u002Bc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/Halo3ODST.v6ympd7krh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\Halo3ODST.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v6ympd7krh"},{"Name":"integrity","Value":"sha256-l9Og6t6vflIjhk6T\u002BiiScdz2fIjYcvfRKWn983s7w\u002Bc="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/Halo3ODST.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"150806"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022l9Og6t6vflIjhk6T\u002BiiScdz2fIjYcvfRKWn983s7w\u002Bc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/Halo4.35ix4zr6va.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\Halo4.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"35ix4zr6va"},{"Name":"integrity","Value":"sha256-6QUKyYX6/HmqmaDdcd8L0Y89TnjPBu2bYHqFbiBZvLk="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/Halo4.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"161448"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226QUKyYX6/HmqmaDdcd8L0Y89TnjPBu2bYHqFbiBZvLk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/Halo4.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\Halo4.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6QUKyYX6/HmqmaDdcd8L0Y89TnjPBu2bYHqFbiBZvLk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"161448"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226QUKyYX6/HmqmaDdcd8L0Y89TnjPBu2bYHqFbiBZvLk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/Halo5Guardians.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\Halo5Guardians.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mWgVPJK2SKPhlR01nf\u002B8sMHL6cxTFyph0wKmD5YQQYA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"385419"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022mWgVPJK2SKPhlR01nf\u002B8sMHL6cxTFyph0wKmD5YQQYA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/Halo5Guardians.rn5fxzmhkz.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\Halo5Guardians.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rn5fxzmhkz"},{"Name":"integrity","Value":"sha256-mWgVPJK2SKPhlR01nf\u002B8sMHL6cxTFyph0wKmD5YQQYA="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/Halo5Guardians.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"385419"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022mWgVPJK2SKPhlR01nf\u002B8sMHL6cxTFyph0wKmD5YQQYA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/HaloCombatEvolved.kd30hc9823.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\HaloCombatEvolved.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kd30hc9823"},{"Name":"integrity","Value":"sha256-GAILH/1tEk8eRbBuBOGQ6ebM8Z3Pv96mjtbmHI5wGtM="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/HaloCombatEvolved.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"80409"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022GAILH/1tEk8eRbBuBOGQ6ebM8Z3Pv96mjtbmHI5wGtM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/HaloCombatEvolved.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\HaloCombatEvolved.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GAILH/1tEk8eRbBuBOGQ6ebM8Z3Pv96mjtbmHI5wGtM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"80409"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022GAILH/1tEk8eRbBuBOGQ6ebM8Z3Pv96mjtbmHI5wGtM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/HaloInfinite.l62rjibizd.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\HaloInfinite.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l62rjibizd"},{"Name":"integrity","Value":"sha256-ze5G3ARDxiJxF1M56e2n0DRZYQKH3ST4YlBpnUT47lI="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/HaloInfinite.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"459131"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ze5G3ARDxiJxF1M56e2n0DRZYQKH3ST4YlBpnUT47lI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/HaloInfinite.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\HaloInfinite.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ze5G3ARDxiJxF1M56e2n0DRZYQKH3ST4YlBpnUT47lI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"459131"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ze5G3ARDxiJxF1M56e2n0DRZYQKH3ST4YlBpnUT47lI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/HaloReach.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\HaloReach.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fxQsHmP0rIAPcRh\u002Bgn4lijoy85ph8yHq42JKXNh8xHk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"122728"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022fxQsHmP0rIAPcRh\u002Bgn4lijoy85ph8yHq42JKXNh8xHk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/HaloReach.r9etfmefsu.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\HaloReach.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r9etfmefsu"},{"Name":"integrity","Value":"sha256-fxQsHmP0rIAPcRh\u002Bgn4lijoy85ph8yHq42JKXNh8xHk="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/HaloReach.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"122728"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022fxQsHmP0rIAPcRh\u002Bgn4lijoy85ph8yHq42JKXNh8xHk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/RedDeadRedemption.mremz151u0.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\RedDeadRedemption.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mremz151u0"},{"Name":"integrity","Value":"sha256-QitjJBJv6vpKDyA0e62o2DMtxBQyyXuqHn8QQgal9H8="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/RedDeadRedemption.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"375964"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022QitjJBJv6vpKDyA0e62o2DMtxBQyyXuqHn8QQgal9H8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/RedDeadRedemption.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\RedDeadRedemption.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QitjJBJv6vpKDyA0e62o2DMtxBQyyXuqHn8QQgal9H8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"375964"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022QitjJBJv6vpKDyA0e62o2DMtxBQyyXuqHn8QQgal9H8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/RedDeadRedemption2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\RedDeadRedemption2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qCBOhfMQ8BVv6m6YLR6m3NS2YZQqvcH6MbhSim3TkLo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"223002"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qCBOhfMQ8BVv6m6YLR6m3NS2YZQqvcH6MbhSim3TkLo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/RedDeadRedemption2.sjmmlobr6m.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\RedDeadRedemption2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sjmmlobr6m"},{"Name":"integrity","Value":"sha256-qCBOhfMQ8BVv6m6YLR6m3NS2YZQqvcH6MbhSim3TkLo="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/RedDeadRedemption2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"223002"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qCBOhfMQ8BVv6m6YLR6m3NS2YZQqvcH6MbhSim3TkLo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/TheLastOfUs.bng4g5e6v5.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\TheLastOfUs.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bng4g5e6v5"},{"Name":"integrity","Value":"sha256-uS5C\u002BubyUm6BJYzM6VPtdMtsQjYlHYhQcL4DcWxgh3w="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/TheLastOfUs.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"502177"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022uS5C\u002BubyUm6BJYzM6VPtdMtsQjYlHYhQcL4DcWxgh3w=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/TheLastOfUs.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\TheLastOfUs.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uS5C\u002BubyUm6BJYzM6VPtdMtsQjYlHYhQcL4DcWxgh3w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"502177"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022uS5C\u002BubyUm6BJYzM6VPtdMtsQjYlHYhQcL4DcWxgh3w=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/TheLastOfUsPart2.mtnp7wicx3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\TheLastOfUsPart2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mtnp7wicx3"},{"Name":"integrity","Value":"sha256-JrR\u002BAPUylwWoFObpTIZRrcPWmAT67ujLxihwHG/aKLY="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/TheLastOfUsPart2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"319052"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JrR\u002BAPUylwWoFObpTIZRrcPWmAT67ujLxihwHG/aKLY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/TheLastOfUsPart2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\TheLastOfUsPart2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JrR\u002BAPUylwWoFObpTIZRrcPWmAT67ujLxihwHG/aKLY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"319052"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022JrR\u002BAPUylwWoFObpTIZRrcPWmAT67ujLxihwHG/aKLY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:31:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/WatchDogs.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\WatchDogs.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-k3nMWjVbrdib3jkILlTA7TyLcj26O6t6jt2tbuppHlE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"82120"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022k3nMWjVbrdib3jkILlTA7TyLcj26O6t6jt2tbuppHlE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/WatchDogs.t87nam6tpy.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\WatchDogs.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t87nam6tpy"},{"Name":"integrity","Value":"sha256-k3nMWjVbrdib3jkILlTA7TyLcj26O6t6jt2tbuppHlE="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/WatchDogs.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"82120"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022k3nMWjVbrdib3jkILlTA7TyLcj26O6t6jt2tbuppHlE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/WatchDogs2.7afwc4qzrw.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\WatchDogs2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7afwc4qzrw"},{"Name":"integrity","Value":"sha256-X5GqDaL0glU6SQEMilppPq4qP01EpUVqdDDwJGPpiRo="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/WatchDogs2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"821984"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022X5GqDaL0glU6SQEMilppPq4qP01EpUVqdDDwJGPpiRo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/WatchDogs2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\WatchDogs2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-X5GqDaL0glU6SQEMilppPq4qP01EpUVqdDDwJGPpiRo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"821984"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022X5GqDaL0glU6SQEMilppPq4qP01EpUVqdDDwJGPpiRo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/WatchDogsLegion.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\WatchDogsLegion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WnpK\u002Bv/pnaCkAPieMeOlkKEUFzEoRStATqkDjM/1AHU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"854184"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WnpK\u002Bv/pnaCkAPieMeOlkKEUFzEoRStATqkDjM/1AHU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Jogos/WatchDogsLegion.qjm2jte9pb.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Jogos\WatchDogsLegion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qjm2jte9pb"},{"Name":"integrity","Value":"sha256-WnpK\u002Bv/pnaCkAPieMeOlkKEUFzEoRStATqkDjM/1AHU="},{"Name":"label","Value":"_content/GameSpace/img/Jogos/WatchDogsLegion.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"854184"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WnpK\u002Bv/pnaCkAPieMeOlkKEUFzEoRStATqkDjM/1AHU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/Logos_Fabricantes_Consoles/atariLogo.ayymcg63f9.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Logos_Fabricantes_Consoles\atariLogo.png'))</AssetFile>
@@ -960,17 +1548,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 21:52:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GameSpace/SQL/Inserts.osj545utfr.sql">
+    <StaticWebAssetEndpoint Include="_content/GameSpace/SQL/Inserts.gihup2bpdn.sql">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SQL\Inserts.sql'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"osj545utfr"},{"Name":"integrity","Value":"sha256-iDRklaNHXoGOTKoqsKu\u002Bq4fmmT9bWBBxz5mZBSm7hoQ="},{"Name":"label","Value":"_content/GameSpace/SQL/Inserts.sql"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12881"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022iDRklaNHXoGOTKoqsKu\u002Bq4fmmT9bWBBxz5mZBSm7hoQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 22:24:37 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gihup2bpdn"},{"Name":"integrity","Value":"sha256-KKWe0XRrLGpV7TAM0hVCOx2LIMY2Yt6vcDeFEjoCcqw="},{"Name":"label","Value":"_content/GameSpace/SQL/Inserts.sql"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13306"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022KKWe0XRrLGpV7TAM0hVCOx2LIMY2Yt6vcDeFEjoCcqw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/SQL/Inserts.sql">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SQL\Inserts.sql'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iDRklaNHXoGOTKoqsKu\u002Bq4fmmT9bWBBxz5mZBSm7hoQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"12881"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022iDRklaNHXoGOTKoqsKu\u002Bq4fmmT9bWBBxz5mZBSm7hoQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 22:24:37 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KKWe0XRrLGpV7TAM0hVCOx2LIMY2Yt6vcDeFEjoCcqw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13306"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022KKWe0XRrLGpV7TAM0hVCOx2LIMY2Yt6vcDeFEjoCcqw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Oct 2025 23:35:44 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

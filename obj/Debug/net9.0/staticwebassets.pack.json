@@ -17,12 +17,208 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStation1.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\playStation1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStation2.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\playStation2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStation3.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\playStation3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStation4.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\playStation4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStation5.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\playStation5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStationPortable.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\playStationPortable.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStationVita.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\playStationVita.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\xbox.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\xbox.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\xbox360.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\xbox360.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\xboxOne.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\xboxOne.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\xboxSeriesX.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\xboxSeriesX.png"
+    },
+    {
       "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\GameSpace Light.png",
       "PackagePath": "staticwebassets\\img\\GameSpace Light.png"
     },
     {
       "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\GameSpaceDark.png",
       "PackagePath": "staticwebassets\\img\\GameSpaceDark.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\Bully.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\Bully.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\FarCry.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\FarCry.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\FarCry2.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\FarCry2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\FarCry3.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\FarCry3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\FarCry4.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\FarCry4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\FarCry5.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\FarCry5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\FarCry6.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\FarCry6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\FarCryNewDawn.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\FarCryNewDawn.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\ForzaHorizon.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\ForzaHorizon.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\ForzaHorizon2.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\ForzaHorizon2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\ForzaHorizon3.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\ForzaHorizon3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\ForzaHorizon4.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\ForzaHorizon4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\ForzaHorizon5.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\ForzaHorizon5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GodOfWar2.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GodOfWar2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GodOfWar2005.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GodOfWar2005.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GodOfWar2018.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GodOfWar2018.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GodOfWar3.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GodOfWar3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GodOfWarRagnarok.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GodOfWarRagnarok.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GrandTheftAutoIII.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GrandTheftAutoIII.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GrandTheftAutoIV.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GrandTheftAutoIV.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GrandTheftAutoSanAndreas.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GrandTheftAutoSanAndreas.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GrandTheftAutoV.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GrandTheftAutoV.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GrandTheftAutoViceCity.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GrandTheftAutoViceCity.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\Halo2.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\Halo2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\Halo3.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\Halo3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\Halo3ODST.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\Halo3ODST.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\Halo4.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\Halo4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\Halo5Guardians.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\Halo5Guardians.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\HaloCombatEvolved.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\HaloCombatEvolved.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\HaloInfinite.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\HaloInfinite.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\HaloReach.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\HaloReach.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\RedDeadRedemption.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\RedDeadRedemption.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\RedDeadRedemption2.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\RedDeadRedemption2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\TheLastOfUs.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\TheLastOfUs.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\TheLastOfUsPart2.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\TheLastOfUsPart2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\WatchDogs.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\WatchDogs.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\WatchDogs2.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\WatchDogs2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\WatchDogsLegion.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\WatchDogsLegion.png"
     },
     {
       "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Consoles\\atariLogo.png",

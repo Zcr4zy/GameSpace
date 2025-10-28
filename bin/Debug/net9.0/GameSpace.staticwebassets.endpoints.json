@@ -301,7 +301,7 @@
       ]
     },
     {
-      "Route": "SQL/Inserts.osj545utfr.sql",
+      "Route": "SQL/Inserts.gihup2bpdn.sql",
       "AssetFile": "SQL/Inserts.sql",
       "Selectors": [],
       "ResponseHeaders": [
@@ -315,7 +315,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12881"
+          "Value": "13306"
         },
         {
           "Name": "Content-Type",
@@ -323,21 +323,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iDRklaNHXoGOTKoqsKu+q4fmmT9bWBBxz5mZBSm7hoQ=\""
+          "Value": "\"KKWe0XRrLGpV7TAM0hVCOx2LIMY2Yt6vcDeFEjoCcqw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 22:24:37 GMT"
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "osj545utfr"
+          "Value": "gihup2bpdn"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-iDRklaNHXoGOTKoqsKu+q4fmmT9bWBBxz5mZBSm7hoQ="
+          "Value": "sha256-KKWe0XRrLGpV7TAM0hVCOx2LIMY2Yt6vcDeFEjoCcqw="
         },
         {
           "Name": "label",
@@ -360,7 +360,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12881"
+          "Value": "13306"
         },
         {
           "Name": "Content-Type",
@@ -368,28 +368,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iDRklaNHXoGOTKoqsKu+q4fmmT9bWBBxz5mZBSm7hoQ=\""
+          "Value": "\"KKWe0XRrLGpV7TAM0hVCOx2LIMY2Yt6vcDeFEjoCcqw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 22:24:37 GMT"
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iDRklaNHXoGOTKoqsKu+q4fmmT9bWBBxz5mZBSm7hoQ="
+          "Value": "sha256-KKWe0XRrLGpV7TAM0hVCOx2LIMY2Yt6vcDeFEjoCcqw="
         }
       ]
     },
     {
-      "Route": "css/site.697w2n1baq.css",
+      "Route": "css/site.bdqlvx9kro.css",
       "AssetFile": "css/site.css.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002421307506"
+          "Quality": "0.002227171492"
         }
       ],
       "ResponseHeaders": [
@@ -407,7 +407,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "412"
+          "Value": "448"
         },
         {
           "Name": "Content-Type",
@@ -415,15 +415,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I=\""
+          "Value": "\"JH88yoqrPwogEtToQo5F3pma5FRiDv7jr6ABqMaCKvQ=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE=\""
+          "Value": "W/\"v6toUv9N8SJfZDK0M72s4D6QftjtpsSBHVbGclEqDPQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 23:10:09 GMT"
+          "Value": "Mon, 27 Oct 2025 23:19:07 GMT"
         },
         {
           "Name": "Vary",
@@ -433,11 +433,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "697w2n1baq"
+          "Value": "bdqlvx9kro"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE="
+          "Value": "sha256-v6toUv9N8SJfZDK0M72s4D6QftjtpsSBHVbGclEqDPQ="
         },
         {
           "Name": "label",
@@ -446,7 +446,7 @@
       ]
     },
     {
-      "Route": "css/site.697w2n1baq.css",
+      "Route": "css/site.bdqlvx9kro.css",
       "AssetFile": "css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -460,7 +460,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "837"
+          "Value": "918"
         },
         {
           "Name": "Content-Type",
@@ -468,21 +468,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE=\""
+          "Value": "\"v6toUv9N8SJfZDK0M72s4D6QftjtpsSBHVbGclEqDPQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 23:10:09 GMT"
+          "Value": "Mon, 27 Oct 2025 23:19:07 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "697w2n1baq"
+          "Value": "bdqlvx9kro"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE="
+          "Value": "sha256-v6toUv9N8SJfZDK0M72s4D6QftjtpsSBHVbGclEqDPQ="
         },
         {
           "Name": "label",
@@ -491,7 +491,7 @@
       ]
     },
     {
-      "Route": "css/site.697w2n1baq.css.gz",
+      "Route": "css/site.bdqlvx9kro.css.gz",
       "AssetFile": "css/site.css.gz",
       "Selectors": [],
       "ResponseHeaders": [
@@ -509,7 +509,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "412"
+          "Value": "448"
         },
         {
           "Name": "Content-Type",
@@ -517,11 +517,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I=\""
+          "Value": "\"JH88yoqrPwogEtToQo5F3pma5FRiDv7jr6ABqMaCKvQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 23:10:09 GMT"
+          "Value": "Mon, 27 Oct 2025 23:19:07 GMT"
         },
         {
           "Name": "Vary",
@@ -531,11 +531,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "697w2n1baq"
+          "Value": "bdqlvx9kro"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I="
+          "Value": "sha256-JH88yoqrPwogEtToQo5F3pma5FRiDv7jr6ABqMaCKvQ="
         },
         {
           "Name": "label",
@@ -550,7 +550,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002421307506"
+          "Quality": "0.002227171492"
         }
       ],
       "ResponseHeaders": [
@@ -568,7 +568,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "412"
+          "Value": "448"
         },
         {
           "Name": "Content-Type",
@@ -576,15 +576,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I=\""
+          "Value": "\"JH88yoqrPwogEtToQo5F3pma5FRiDv7jr6ABqMaCKvQ=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE=\""
+          "Value": "W/\"v6toUv9N8SJfZDK0M72s4D6QftjtpsSBHVbGclEqDPQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 23:10:09 GMT"
+          "Value": "Mon, 27 Oct 2025 23:19:07 GMT"
         },
         {
           "Name": "Vary",
@@ -594,7 +594,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE="
+          "Value": "sha256-v6toUv9N8SJfZDK0M72s4D6QftjtpsSBHVbGclEqDPQ="
         }
       ]
     },
@@ -613,7 +613,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "837"
+          "Value": "918"
         },
         {
           "Name": "Content-Type",
@@ -621,17 +621,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE=\""
+          "Value": "\"v6toUv9N8SJfZDK0M72s4D6QftjtpsSBHVbGclEqDPQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 23:10:09 GMT"
+          "Value": "Mon, 27 Oct 2025 23:19:07 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-urps2j3MtmcMBxD3PodveM5FPea4PRL+NnC1Kef0TaE="
+          "Value": "sha256-v6toUv9N8SJfZDK0M72s4D6QftjtpsSBHVbGclEqDPQ="
         }
       ]
     },
@@ -654,7 +654,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "412"
+          "Value": "448"
         },
         {
           "Name": "Content-Type",
@@ -662,11 +662,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I=\""
+          "Value": "\"JH88yoqrPwogEtToQo5F3pma5FRiDv7jr6ABqMaCKvQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Oct 2025 23:10:09 GMT"
+          "Value": "Mon, 27 Oct 2025 23:19:07 GMT"
         },
         {
           "Name": "Vary",
@@ -676,7 +676,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-032Jsw5UuEeIKiIKPr6nDGzBfjbxDpxiAi8ib2/Lz4I="
+          "Value": "sha256-JH88yoqrPwogEtToQo5F3pma5FRiDv7jr6ABqMaCKvQ="
         }
       ]
     },
@@ -979,6 +979,908 @@
       ]
     },
     {
+      "Route": "img/Consoles/playStation1.png",
+      "AssetFile": "img/Consoles/playStation1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "374744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY="
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/playStation1.t0zeth8bwj.png",
+      "AssetFile": "img/Consoles/playStation1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "374744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t0zeth8bwj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Consoles/playStation1.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/playStation2.png",
+      "AssetFile": "img/Consoles/playStation2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3+//Qq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3+//Qq4="
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/playStation2.v8d2w6jhjx.png",
+      "AssetFile": "img/Consoles/playStation2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3+//Qq4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v8d2w6jhjx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3+//Qq4="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Consoles/playStation2.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/playStation3.5jq7wsdmgr.png",
+      "AssetFile": "img/Consoles/playStation3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5jq7wsdmgr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Consoles/playStation3.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/playStation3.png",
+      "AssetFile": "img/Consoles/playStation3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0="
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/playStation4.fw151uau04.png",
+      "AssetFile": "img/Consoles/playStation4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"35GOpersJc8b0sbyEB4ElUZodOP4Hmi2rYo6lUKrXmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fw151uau04"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-35GOpersJc8b0sbyEB4ElUZodOP4Hmi2rYo6lUKrXmA="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Consoles/playStation4.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/playStation4.png",
+      "AssetFile": "img/Consoles/playStation4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"35GOpersJc8b0sbyEB4ElUZodOP4Hmi2rYo6lUKrXmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-35GOpersJc8b0sbyEB4ElUZodOP4Hmi2rYo6lUKrXmA="
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/playStation5.kb601qv7s5.png",
+      "AssetFile": "img/Consoles/playStation5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kb601qv7s5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Consoles/playStation5.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/playStation5.png",
+      "AssetFile": "img/Consoles/playStation5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/playStationPortable.mjuc0nexe6.png",
+      "AssetFile": "img/Consoles/playStationPortable.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1228850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mjuc0nexe6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Consoles/playStationPortable.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/playStationPortable.png",
+      "AssetFile": "img/Consoles/playStationPortable.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1228850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/playStationVita.pgh83zn4ym.png",
+      "AssetFile": "img/Consoles/playStationVita.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15404873"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"acn0SidTyjZhNT2kuo1xwSzJ4MLjMCCHHlLaNU+aZbM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pgh83zn4ym"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-acn0SidTyjZhNT2kuo1xwSzJ4MLjMCCHHlLaNU+aZbM="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Consoles/playStationVita.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/playStationVita.png",
+      "AssetFile": "img/Consoles/playStationVita.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15404873"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"acn0SidTyjZhNT2kuo1xwSzJ4MLjMCCHHlLaNU+aZbM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-acn0SidTyjZhNT2kuo1xwSzJ4MLjMCCHHlLaNU+aZbM="
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/xbox.png",
+      "AssetFile": "img/Consoles/xbox.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2437436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WZn6PPvOiKeAxKh+Jux2fftBFZsCdR0A3uqm5TpsZsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WZn6PPvOiKeAxKh+Jux2fftBFZsCdR0A3uqm5TpsZsE="
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/xbox.vy8tkgc4o0.png",
+      "AssetFile": "img/Consoles/xbox.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2437436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WZn6PPvOiKeAxKh+Jux2fftBFZsCdR0A3uqm5TpsZsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vy8tkgc4o0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WZn6PPvOiKeAxKh+Jux2fftBFZsCdR0A3uqm5TpsZsE="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Consoles/xbox.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/xbox360.c1sddvw85k.png",
+      "AssetFile": "img/Consoles/xbox360.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1392293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0CfG0XTt267+9/gMhoJ+azNT42IbQ9cAwAMCWmVmO2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c1sddvw85k"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0CfG0XTt267+9/gMhoJ+azNT42IbQ9cAwAMCWmVmO2Y="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Consoles/xbox360.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/xbox360.png",
+      "AssetFile": "img/Consoles/xbox360.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1392293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0CfG0XTt267+9/gMhoJ+azNT42IbQ9cAwAMCWmVmO2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0CfG0XTt267+9/gMhoJ+azNT42IbQ9cAwAMCWmVmO2Y="
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/xboxOne.png",
+      "AssetFile": "img/Consoles/xboxOne.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37082"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KuCGyiLfgxnerhjmFZIMVgEYTSXtYwPiBvTkKpiBvko=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KuCGyiLfgxnerhjmFZIMVgEYTSXtYwPiBvTkKpiBvko="
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/xboxOne.uecw5tqfsd.png",
+      "AssetFile": "img/Consoles/xboxOne.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37082"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KuCGyiLfgxnerhjmFZIMVgEYTSXtYwPiBvTkKpiBvko=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uecw5tqfsd"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KuCGyiLfgxnerhjmFZIMVgEYTSXtYwPiBvTkKpiBvko="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Consoles/xboxOne.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/xboxSeriesX.o1myqp7jpv.png",
+      "AssetFile": "img/Consoles/xboxSeriesX.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "374692"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HDLKhq4jQEMgixYPHGu+K+fDoSJZ5ur99lJZSbbRg4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1myqp7jpv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HDLKhq4jQEMgixYPHGu+K+fDoSJZ5ur99lJZSbbRg4g="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Consoles/xboxSeriesX.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/xboxSeriesX.png",
+      "AssetFile": "img/Consoles/xboxSeriesX.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "374692"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HDLKhq4jQEMgixYPHGu+K+fDoSJZ5ur99lJZSbbRg4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HDLKhq4jQEMgixYPHGu+K+fDoSJZ5ur99lJZSbbRg4g="
+        }
+      ]
+    },
+    {
       "Route": "img/GameSpace Light.ajy8lqva9c.png",
       "AssetFile": "img/GameSpace Light.png",
       "Selectors": [],
@@ -1139,6 +2041,3122 @@
         {
           "Name": "integrity",
           "Value": "sha256-ADqOpBcx01trRBrO5bzx9W+amJfp/G3x1TNYTAJcGcA="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/Bully.n8fgzoafk5.png",
+      "AssetFile": "img/Jogos/Bully.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J3Qw1nHIzBFTDA0InL5we5esW0OXYQMZ9JKVvXYsQkY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n8fgzoafk5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J3Qw1nHIzBFTDA0InL5we5esW0OXYQMZ9JKVvXYsQkY="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/Bully.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/Bully.png",
+      "AssetFile": "img/Jogos/Bully.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J3Qw1nHIzBFTDA0InL5we5esW0OXYQMZ9JKVvXYsQkY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J3Qw1nHIzBFTDA0InL5we5esW0OXYQMZ9JKVvXYsQkY="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/FarCry.66k8nktyv3.png",
+      "AssetFile": "img/Jogos/FarCry.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "189091"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4lCTNJuXKweOxemM+XGLO78ekzrSx2LF+I83J34ZXTQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "66k8nktyv3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4lCTNJuXKweOxemM+XGLO78ekzrSx2LF+I83J34ZXTQ="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/FarCry.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/FarCry.png",
+      "AssetFile": "img/Jogos/FarCry.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "189091"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4lCTNJuXKweOxemM+XGLO78ekzrSx2LF+I83J34ZXTQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4lCTNJuXKweOxemM+XGLO78ekzrSx2LF+I83J34ZXTQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/FarCry2.9r1a9f5u6y.png",
+      "AssetFile": "img/Jogos/FarCry2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69889"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZTwSFHMFqME0Ib+Ljc9+L7G3WV3pxN0qVK0b/wvi3Vc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9r1a9f5u6y"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZTwSFHMFqME0Ib+Ljc9+L7G3WV3pxN0qVK0b/wvi3Vc="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/FarCry2.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/FarCry2.png",
+      "AssetFile": "img/Jogos/FarCry2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69889"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZTwSFHMFqME0Ib+Ljc9+L7G3WV3pxN0qVK0b/wvi3Vc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZTwSFHMFqME0Ib+Ljc9+L7G3WV3pxN0qVK0b/wvi3Vc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/FarCry3.png",
+      "AssetFile": "img/Jogos/FarCry3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sdfrnrw26vrPNJUH2p+9QAouiI88fJKArrP1N8W2A7w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sdfrnrw26vrPNJUH2p+9QAouiI88fJKArrP1N8W2A7w="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/FarCry3.veu34qojax.png",
+      "AssetFile": "img/Jogos/FarCry3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sdfrnrw26vrPNJUH2p+9QAouiI88fJKArrP1N8W2A7w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "veu34qojax"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sdfrnrw26vrPNJUH2p+9QAouiI88fJKArrP1N8W2A7w="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/FarCry3.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/FarCry4.b5tilos17l.png",
+      "AssetFile": "img/Jogos/FarCry4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D/kVf2pi4Ph1O1Tp/fp8qaaIRKxPjMACvxxunf1ma/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b5tilos17l"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D/kVf2pi4Ph1O1Tp/fp8qaaIRKxPjMACvxxunf1ma/4="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/FarCry4.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/FarCry4.png",
+      "AssetFile": "img/Jogos/FarCry4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D/kVf2pi4Ph1O1Tp/fp8qaaIRKxPjMACvxxunf1ma/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D/kVf2pi4Ph1O1Tp/fp8qaaIRKxPjMACvxxunf1ma/4="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/FarCry5.png",
+      "AssetFile": "img/Jogos/FarCry5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YK/kEhW9MPVQT8X6RQ3X3kTv3J8dNHYPp/EgIDPrbu0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YK/kEhW9MPVQT8X6RQ3X3kTv3J8dNHYPp/EgIDPrbu0="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/FarCry5.w8q6teb4ti.png",
+      "AssetFile": "img/Jogos/FarCry5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YK/kEhW9MPVQT8X6RQ3X3kTv3J8dNHYPp/EgIDPrbu0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8q6teb4ti"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YK/kEhW9MPVQT8X6RQ3X3kTv3J8dNHYPp/EgIDPrbu0="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/FarCry5.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/FarCry6.png",
+      "AssetFile": "img/Jogos/FarCry6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZAVM2ZiT/JnjZ5wwAIR6aRFVyW/ZLIG6T3Jyc+jqU2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZAVM2ZiT/JnjZ5wwAIR6aRFVyW/ZLIG6T3Jyc+jqU2s="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/FarCry6.swwom2uh3g.png",
+      "AssetFile": "img/Jogos/FarCry6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZAVM2ZiT/JnjZ5wwAIR6aRFVyW/ZLIG6T3Jyc+jqU2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "swwom2uh3g"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZAVM2ZiT/JnjZ5wwAIR6aRFVyW/ZLIG6T3Jyc+jqU2s="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/FarCry6.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/FarCryNewDawn.png",
+      "AssetFile": "img/Jogos/FarCryNewDawn.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321606"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uPefV8wUhkhGvyewOZovtgWgKuhMaUdfUYyIaFtdLZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uPefV8wUhkhGvyewOZovtgWgKuhMaUdfUYyIaFtdLZs="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/FarCryNewDawn.sfkheawh6m.png",
+      "AssetFile": "img/Jogos/FarCryNewDawn.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321606"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uPefV8wUhkhGvyewOZovtgWgKuhMaUdfUYyIaFtdLZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sfkheawh6m"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uPefV8wUhkhGvyewOZovtgWgKuhMaUdfUYyIaFtdLZs="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/FarCryNewDawn.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/ForzaHorizon.oo2tl7wmli.png",
+      "AssetFile": "img/Jogos/ForzaHorizon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KBxeDebfM+7U9DqVHnegFHyxhSz4pcAc8xSWvi5OPhM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oo2tl7wmli"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KBxeDebfM+7U9DqVHnegFHyxhSz4pcAc8xSWvi5OPhM="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/ForzaHorizon.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/ForzaHorizon.png",
+      "AssetFile": "img/Jogos/ForzaHorizon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KBxeDebfM+7U9DqVHnegFHyxhSz4pcAc8xSWvi5OPhM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KBxeDebfM+7U9DqVHnegFHyxhSz4pcAc8xSWvi5OPhM="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/ForzaHorizon2.dhnnhk6kod.png",
+      "AssetFile": "img/Jogos/ForzaHorizon2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"obdc5zEoBh1lX7ZKLEEMHMd5JhQaNZ8lUQkquN0tjDw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dhnnhk6kod"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-obdc5zEoBh1lX7ZKLEEMHMd5JhQaNZ8lUQkquN0tjDw="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/ForzaHorizon2.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/ForzaHorizon2.png",
+      "AssetFile": "img/Jogos/ForzaHorizon2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"obdc5zEoBh1lX7ZKLEEMHMd5JhQaNZ8lUQkquN0tjDw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-obdc5zEoBh1lX7ZKLEEMHMd5JhQaNZ8lUQkquN0tjDw="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/ForzaHorizon3.nkixui9nky.png",
+      "AssetFile": "img/Jogos/ForzaHorizon3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66573"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uW0MDiDcV7f/VGRROxNvpkWdA/0XE+IL3l+iogXygBM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nkixui9nky"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uW0MDiDcV7f/VGRROxNvpkWdA/0XE+IL3l+iogXygBM="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/ForzaHorizon3.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/ForzaHorizon3.png",
+      "AssetFile": "img/Jogos/ForzaHorizon3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66573"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uW0MDiDcV7f/VGRROxNvpkWdA/0XE+IL3l+iogXygBM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uW0MDiDcV7f/VGRROxNvpkWdA/0XE+IL3l+iogXygBM="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/ForzaHorizon4.1m01aksjwf.png",
+      "AssetFile": "img/Jogos/ForzaHorizon4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36470"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p6xJht5xcerXUUv78PkUWHQ/mMwm5+A/A8R31WQUshY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1m01aksjwf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p6xJht5xcerXUUv78PkUWHQ/mMwm5+A/A8R31WQUshY="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/ForzaHorizon4.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/ForzaHorizon4.png",
+      "AssetFile": "img/Jogos/ForzaHorizon4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36470"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p6xJht5xcerXUUv78PkUWHQ/mMwm5+A/A8R31WQUshY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p6xJht5xcerXUUv78PkUWHQ/mMwm5+A/A8R31WQUshY="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/ForzaHorizon5.22gpvc7yrd.png",
+      "AssetFile": "img/Jogos/ForzaHorizon5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ijy5a+klWJs9OBHGLI9pNt+e+IyubE/bDDpQebjkldw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "22gpvc7yrd"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ijy5a+klWJs9OBHGLI9pNt+e+IyubE/bDDpQebjkldw="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/ForzaHorizon5.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/ForzaHorizon5.png",
+      "AssetFile": "img/Jogos/ForzaHorizon5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ijy5a+klWJs9OBHGLI9pNt+e+IyubE/bDDpQebjkldw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ijy5a+klWJs9OBHGLI9pNt+e+IyubE/bDDpQebjkldw="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GodOfWar2.ok0rkc75e6.png",
+      "AssetFile": "img/Jogos/GodOfWar2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qC86NQU2FPJ5IdxONnBY2vv/LHJoYyrxr34EXErTt7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ok0rkc75e6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qC86NQU2FPJ5IdxONnBY2vv/LHJoYyrxr34EXErTt7M="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/GodOfWar2.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GodOfWar2.png",
+      "AssetFile": "img/Jogos/GodOfWar2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qC86NQU2FPJ5IdxONnBY2vv/LHJoYyrxr34EXErTt7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qC86NQU2FPJ5IdxONnBY2vv/LHJoYyrxr34EXErTt7M="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GodOfWar2005.png",
+      "AssetFile": "img/Jogos/GodOfWar2005.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "366667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OzxkddWIToftZKFl5eUucGyXeWUmImI2kgVPVQUFxbs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OzxkddWIToftZKFl5eUucGyXeWUmImI2kgVPVQUFxbs="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GodOfWar2005.x960obwabp.png",
+      "AssetFile": "img/Jogos/GodOfWar2005.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "366667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OzxkddWIToftZKFl5eUucGyXeWUmImI2kgVPVQUFxbs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x960obwabp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OzxkddWIToftZKFl5eUucGyXeWUmImI2kgVPVQUFxbs="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/GodOfWar2005.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GodOfWar2018.n5gqkf3u1h.png",
+      "AssetFile": "img/Jogos/GodOfWar2018.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "446903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tUs/OYulqPfg4ub20tKMrrs9d6XPUjjhWd4A1J0EZec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n5gqkf3u1h"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tUs/OYulqPfg4ub20tKMrrs9d6XPUjjhWd4A1J0EZec="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/GodOfWar2018.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GodOfWar2018.png",
+      "AssetFile": "img/Jogos/GodOfWar2018.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "446903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tUs/OYulqPfg4ub20tKMrrs9d6XPUjjhWd4A1J0EZec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tUs/OYulqPfg4ub20tKMrrs9d6XPUjjhWd4A1J0EZec="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GodOfWar3.png",
+      "AssetFile": "img/Jogos/GodOfWar3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "437744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jullZ1HYpVjYQibWS3G1vEu2+YGF7ZLHx/kJLpeYwh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jullZ1HYpVjYQibWS3G1vEu2+YGF7ZLHx/kJLpeYwh0="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GodOfWar3.u9hssxpysg.png",
+      "AssetFile": "img/Jogos/GodOfWar3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "437744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jullZ1HYpVjYQibWS3G1vEu2+YGF7ZLHx/kJLpeYwh0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u9hssxpysg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jullZ1HYpVjYQibWS3G1vEu2+YGF7ZLHx/kJLpeYwh0="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/GodOfWar3.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GodOfWarRagnarok.iau8uaxda1.png",
+      "AssetFile": "img/Jogos/GodOfWarRagnarok.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "166001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WuFJs1MuG2pK9DzrI0apf67o+vnH8hdRtmpcteo5c+4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iau8uaxda1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WuFJs1MuG2pK9DzrI0apf67o+vnH8hdRtmpcteo5c+4="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/GodOfWarRagnarok.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GodOfWarRagnarok.png",
+      "AssetFile": "img/Jogos/GodOfWarRagnarok.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "166001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WuFJs1MuG2pK9DzrI0apf67o+vnH8hdRtmpcteo5c+4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WuFJs1MuG2pK9DzrI0apf67o+vnH8hdRtmpcteo5c+4="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GrandTheftAutoIII.44qr58u2fk.png",
+      "AssetFile": "img/Jogos/GrandTheftAutoIII.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9GGIfmpIXFZoNHhYg/+rl+bnEgiqeytUTxPK7cjX8fI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "44qr58u2fk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9GGIfmpIXFZoNHhYg/+rl+bnEgiqeytUTxPK7cjX8fI="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/GrandTheftAutoIII.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GrandTheftAutoIII.png",
+      "AssetFile": "img/Jogos/GrandTheftAutoIII.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9GGIfmpIXFZoNHhYg/+rl+bnEgiqeytUTxPK7cjX8fI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9GGIfmpIXFZoNHhYg/+rl+bnEgiqeytUTxPK7cjX8fI="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GrandTheftAutoIV.kco4qk49yf.png",
+      "AssetFile": "img/Jogos/GrandTheftAutoIV.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RP58W1svy+JHSkr66palZsnR1WeVmg9rVsKGZCL/Z4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kco4qk49yf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RP58W1svy+JHSkr66palZsnR1WeVmg9rVsKGZCL/Z4E="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/GrandTheftAutoIV.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GrandTheftAutoIV.png",
+      "AssetFile": "img/Jogos/GrandTheftAutoIV.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RP58W1svy+JHSkr66palZsnR1WeVmg9rVsKGZCL/Z4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RP58W1svy+JHSkr66palZsnR1WeVmg9rVsKGZCL/Z4E="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GrandTheftAutoSanAndreas.31e76q2voj.png",
+      "AssetFile": "img/Jogos/GrandTheftAutoSanAndreas.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "305997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OW/g51hVpNzhaFM60Az3DRRxLyNN0f4Cb0suYixhqW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "31e76q2voj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OW/g51hVpNzhaFM60Az3DRRxLyNN0f4Cb0suYixhqW4="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/GrandTheftAutoSanAndreas.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GrandTheftAutoSanAndreas.png",
+      "AssetFile": "img/Jogos/GrandTheftAutoSanAndreas.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "305997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OW/g51hVpNzhaFM60Az3DRRxLyNN0f4Cb0suYixhqW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OW/g51hVpNzhaFM60Az3DRRxLyNN0f4Cb0suYixhqW4="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GrandTheftAutoV.9kv206j14c.png",
+      "AssetFile": "img/Jogos/GrandTheftAutoV.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SVTCn2gNoktCF+TnsdTj2tKi1jdnsMRT21UWjsFaVEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9kv206j14c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SVTCn2gNoktCF+TnsdTj2tKi1jdnsMRT21UWjsFaVEQ="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/GrandTheftAutoV.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GrandTheftAutoV.png",
+      "AssetFile": "img/Jogos/GrandTheftAutoV.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SVTCn2gNoktCF+TnsdTj2tKi1jdnsMRT21UWjsFaVEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SVTCn2gNoktCF+TnsdTj2tKi1jdnsMRT21UWjsFaVEQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GrandTheftAutoViceCity.png",
+      "AssetFile": "img/Jogos/GrandTheftAutoViceCity.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "278927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mlpbDPiq95B0gjtmAj68vI81wV/uxl+UKGQd+zLQA/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mlpbDPiq95B0gjtmAj68vI81wV/uxl+UKGQd+zLQA/A="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/GrandTheftAutoViceCity.uv6fqgzfva.png",
+      "AssetFile": "img/Jogos/GrandTheftAutoViceCity.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "278927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mlpbDPiq95B0gjtmAj68vI81wV/uxl+UKGQd+zLQA/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uv6fqgzfva"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mlpbDPiq95B0gjtmAj68vI81wV/uxl+UKGQd+zLQA/A="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/GrandTheftAutoViceCity.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/Halo2.png",
+      "AssetFile": "img/Jogos/Halo2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9M+jnfaTXsToOi3qCQFu7HDq/LaFjiRAD2VTL76iIrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9M+jnfaTXsToOi3qCQFu7HDq/LaFjiRAD2VTL76iIrw="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/Halo2.s4mwk1gb07.png",
+      "AssetFile": "img/Jogos/Halo2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9M+jnfaTXsToOi3qCQFu7HDq/LaFjiRAD2VTL76iIrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s4mwk1gb07"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9M+jnfaTXsToOi3qCQFu7HDq/LaFjiRAD2VTL76iIrw="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/Halo2.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/Halo3.fwi8yvnvdi.png",
+      "AssetFile": "img/Jogos/Halo3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UYCPAFnPYtnNF5hM+nJ8O0aVkvrsmwOpGeJO+zSTLPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwi8yvnvdi"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UYCPAFnPYtnNF5hM+nJ8O0aVkvrsmwOpGeJO+zSTLPY="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/Halo3.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/Halo3.png",
+      "AssetFile": "img/Jogos/Halo3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UYCPAFnPYtnNF5hM+nJ8O0aVkvrsmwOpGeJO+zSTLPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UYCPAFnPYtnNF5hM+nJ8O0aVkvrsmwOpGeJO+zSTLPY="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/Halo3ODST.png",
+      "AssetFile": "img/Jogos/Halo3ODST.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150806"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l9Og6t6vflIjhk6T+iiScdz2fIjYcvfRKWn983s7w+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l9Og6t6vflIjhk6T+iiScdz2fIjYcvfRKWn983s7w+c="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/Halo3ODST.v6ympd7krh.png",
+      "AssetFile": "img/Jogos/Halo3ODST.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150806"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l9Og6t6vflIjhk6T+iiScdz2fIjYcvfRKWn983s7w+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v6ympd7krh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l9Og6t6vflIjhk6T+iiScdz2fIjYcvfRKWn983s7w+c="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/Halo3ODST.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/Halo4.35ix4zr6va.png",
+      "AssetFile": "img/Jogos/Halo4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161448"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6QUKyYX6/HmqmaDdcd8L0Y89TnjPBu2bYHqFbiBZvLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "35ix4zr6va"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6QUKyYX6/HmqmaDdcd8L0Y89TnjPBu2bYHqFbiBZvLk="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/Halo4.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/Halo4.png",
+      "AssetFile": "img/Jogos/Halo4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161448"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6QUKyYX6/HmqmaDdcd8L0Y89TnjPBu2bYHqFbiBZvLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6QUKyYX6/HmqmaDdcd8L0Y89TnjPBu2bYHqFbiBZvLk="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/Halo5Guardians.png",
+      "AssetFile": "img/Jogos/Halo5Guardians.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "385419"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mWgVPJK2SKPhlR01nf+8sMHL6cxTFyph0wKmD5YQQYA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mWgVPJK2SKPhlR01nf+8sMHL6cxTFyph0wKmD5YQQYA="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/Halo5Guardians.rn5fxzmhkz.png",
+      "AssetFile": "img/Jogos/Halo5Guardians.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "385419"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mWgVPJK2SKPhlR01nf+8sMHL6cxTFyph0wKmD5YQQYA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rn5fxzmhkz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mWgVPJK2SKPhlR01nf+8sMHL6cxTFyph0wKmD5YQQYA="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/Halo5Guardians.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/HaloCombatEvolved.kd30hc9823.png",
+      "AssetFile": "img/Jogos/HaloCombatEvolved.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GAILH/1tEk8eRbBuBOGQ6ebM8Z3Pv96mjtbmHI5wGtM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kd30hc9823"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GAILH/1tEk8eRbBuBOGQ6ebM8Z3Pv96mjtbmHI5wGtM="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/HaloCombatEvolved.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/HaloCombatEvolved.png",
+      "AssetFile": "img/Jogos/HaloCombatEvolved.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GAILH/1tEk8eRbBuBOGQ6ebM8Z3Pv96mjtbmHI5wGtM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GAILH/1tEk8eRbBuBOGQ6ebM8Z3Pv96mjtbmHI5wGtM="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/HaloInfinite.l62rjibizd.png",
+      "AssetFile": "img/Jogos/HaloInfinite.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ze5G3ARDxiJxF1M56e2n0DRZYQKH3ST4YlBpnUT47lI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l62rjibizd"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ze5G3ARDxiJxF1M56e2n0DRZYQKH3ST4YlBpnUT47lI="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/HaloInfinite.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/HaloInfinite.png",
+      "AssetFile": "img/Jogos/HaloInfinite.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ze5G3ARDxiJxF1M56e2n0DRZYQKH3ST4YlBpnUT47lI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ze5G3ARDxiJxF1M56e2n0DRZYQKH3ST4YlBpnUT47lI="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/HaloReach.png",
+      "AssetFile": "img/Jogos/HaloReach.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fxQsHmP0rIAPcRh+gn4lijoy85ph8yHq42JKXNh8xHk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fxQsHmP0rIAPcRh+gn4lijoy85ph8yHq42JKXNh8xHk="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/HaloReach.r9etfmefsu.png",
+      "AssetFile": "img/Jogos/HaloReach.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fxQsHmP0rIAPcRh+gn4lijoy85ph8yHq42JKXNh8xHk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r9etfmefsu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fxQsHmP0rIAPcRh+gn4lijoy85ph8yHq42JKXNh8xHk="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/HaloReach.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/RedDeadRedemption.mremz151u0.png",
+      "AssetFile": "img/Jogos/RedDeadRedemption.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "375964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QitjJBJv6vpKDyA0e62o2DMtxBQyyXuqHn8QQgal9H8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mremz151u0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QitjJBJv6vpKDyA0e62o2DMtxBQyyXuqHn8QQgal9H8="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/RedDeadRedemption.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/RedDeadRedemption.png",
+      "AssetFile": "img/Jogos/RedDeadRedemption.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "375964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QitjJBJv6vpKDyA0e62o2DMtxBQyyXuqHn8QQgal9H8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QitjJBJv6vpKDyA0e62o2DMtxBQyyXuqHn8QQgal9H8="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/RedDeadRedemption2.png",
+      "AssetFile": "img/Jogos/RedDeadRedemption2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "223002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qCBOhfMQ8BVv6m6YLR6m3NS2YZQqvcH6MbhSim3TkLo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qCBOhfMQ8BVv6m6YLR6m3NS2YZQqvcH6MbhSim3TkLo="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/RedDeadRedemption2.sjmmlobr6m.png",
+      "AssetFile": "img/Jogos/RedDeadRedemption2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "223002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qCBOhfMQ8BVv6m6YLR6m3NS2YZQqvcH6MbhSim3TkLo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sjmmlobr6m"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qCBOhfMQ8BVv6m6YLR6m3NS2YZQqvcH6MbhSim3TkLo="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/RedDeadRedemption2.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/TheLastOfUs.bng4g5e6v5.png",
+      "AssetFile": "img/Jogos/TheLastOfUs.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "502177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uS5C+ubyUm6BJYzM6VPtdMtsQjYlHYhQcL4DcWxgh3w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bng4g5e6v5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uS5C+ubyUm6BJYzM6VPtdMtsQjYlHYhQcL4DcWxgh3w="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/TheLastOfUs.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/TheLastOfUs.png",
+      "AssetFile": "img/Jogos/TheLastOfUs.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "502177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uS5C+ubyUm6BJYzM6VPtdMtsQjYlHYhQcL4DcWxgh3w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uS5C+ubyUm6BJYzM6VPtdMtsQjYlHYhQcL4DcWxgh3w="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/TheLastOfUsPart2.mtnp7wicx3.png",
+      "AssetFile": "img/Jogos/TheLastOfUsPart2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "319052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JrR+APUylwWoFObpTIZRrcPWmAT67ujLxihwHG/aKLY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mtnp7wicx3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JrR+APUylwWoFObpTIZRrcPWmAT67ujLxihwHG/aKLY="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/TheLastOfUsPart2.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/TheLastOfUsPart2.png",
+      "AssetFile": "img/Jogos/TheLastOfUsPart2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "319052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JrR+APUylwWoFObpTIZRrcPWmAT67ujLxihwHG/aKLY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JrR+APUylwWoFObpTIZRrcPWmAT67ujLxihwHG/aKLY="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/WatchDogs.png",
+      "AssetFile": "img/Jogos/WatchDogs.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k3nMWjVbrdib3jkILlTA7TyLcj26O6t6jt2tbuppHlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k3nMWjVbrdib3jkILlTA7TyLcj26O6t6jt2tbuppHlE="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/WatchDogs.t87nam6tpy.png",
+      "AssetFile": "img/Jogos/WatchDogs.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k3nMWjVbrdib3jkILlTA7TyLcj26O6t6jt2tbuppHlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t87nam6tpy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k3nMWjVbrdib3jkILlTA7TyLcj26O6t6jt2tbuppHlE="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/WatchDogs.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/WatchDogs2.7afwc4qzrw.png",
+      "AssetFile": "img/Jogos/WatchDogs2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "821984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X5GqDaL0glU6SQEMilppPq4qP01EpUVqdDDwJGPpiRo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7afwc4qzrw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X5GqDaL0glU6SQEMilppPq4qP01EpUVqdDDwJGPpiRo="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/WatchDogs2.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/WatchDogs2.png",
+      "AssetFile": "img/Jogos/WatchDogs2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "821984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X5GqDaL0glU6SQEMilppPq4qP01EpUVqdDDwJGPpiRo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X5GqDaL0glU6SQEMilppPq4qP01EpUVqdDDwJGPpiRo="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/WatchDogsLegion.png",
+      "AssetFile": "img/Jogos/WatchDogsLegion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "854184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WnpK+v/pnaCkAPieMeOlkKEUFzEoRStATqkDjM/1AHU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WnpK+v/pnaCkAPieMeOlkKEUFzEoRStATqkDjM/1AHU="
+        }
+      ]
+    },
+    {
+      "Route": "img/Jogos/WatchDogsLegion.qjm2jte9pb.png",
+      "AssetFile": "img/Jogos/WatchDogsLegion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "854184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WnpK+v/pnaCkAPieMeOlkKEUFzEoRStATqkDjM/1AHU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Oct 2025 23:35:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qjm2jte9pb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WnpK+v/pnaCkAPieMeOlkKEUFzEoRStATqkDjM/1AHU="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Jogos/WatchDogsLegion.png"
         }
       ]
     },
