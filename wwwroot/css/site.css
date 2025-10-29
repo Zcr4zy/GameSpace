@@ -21,6 +21,7 @@ html {
   min-height: 100%;
 }
 
+/*rgb(40,22,116)*/
 body {
   margin-bottom: 60px;
 }
@@ -35,20 +36,35 @@ body {
 }
 
 #navbarNavegacao{
-  background: transparent;
+  background: radial-gradient(circle at center, #1b1630 0%, #0b0a12 100%);
   color: white !important;
-  justify-self: center;
+  display: grid;
+  justify-content: center;
 }
 
 #logoGameSpace{
   width: 300px; 
-  height: 100px;
+  height: 60px;
 }
 
 .card {
-  transition: border 1s ease ;
+  width: 100%;
+  color: #fff;
+  border: 0px solid transparent;
+  border-image: linear-gradient(135deg, rgb(121,67,255), rgb(66,24,170)) 1; 
+  border-radius: 25px; 
+  background: radial-gradient(circle at center, rgb(64, 41, 170) 0%, rgb(34,21,98) 100%);
+  overflow: hidden;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  box-shadow: 0 0 25px rgba(63, 16, 182, 0.3);
 }
 
-.card:hover{
-  border: 2px solid white;
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 25px rgba(127, 84, 235, 0.6);
+}
+
+.btn_ver_detalhes{
+  color: white;
+  margin-top: 20px !important;
 }

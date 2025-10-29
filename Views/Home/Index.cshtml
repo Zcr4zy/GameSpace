@@ -5,13 +5,14 @@
         @foreach (var console in Model)
         {
             <div class="col-lg-3 col-md-6 col-sm-12">
-                <a href="https://youtube.com" style="text-decoration: none;">
-                    <div class="card h-100" style="width: 100%; background-color: #1b1630; color: #fff; border: none;">
+                <a href="https://youtube.com" style="text-decoration: none; color:white">
+                    <div class="card h-100 text-center">
                         <img src="@console.Imagem" class="card-img-top img-fluid" style="height:180px;" alt="Imagem do console">
                         <div class="card-body">
                             <h5 class="card-title">@console.Nome</h5>
-                            <p class="card-text">@console.Descricao</p>
+                            @* <p class="card-text">@console.Descricao</p> *@
                             <p class="card-text"><small>@console.DataLancamento - @console.Geracao</small></p>
+                            <a href="https://facebook.com"><button class="btn btn-primary btn_ver_detalhes">Ver detalhes</button></a>
                         </div>
                     </div>
                 </a>
