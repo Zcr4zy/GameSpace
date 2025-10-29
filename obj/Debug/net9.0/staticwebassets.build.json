@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "o7yPCaLc/Xtei+fw6M3jurgOOZm8jmuzzP6BcVkwg2w=",
+  "Hash": "mF0CEG7c7dz4ltOto+Q/xR01a6FTLlZXAVyaNZXGjYk=",
   "Source": "GameSpace",
   "BasePath": "_content/GameSpace",
   "Mode": "Default",
@@ -857,12 +857,12 @@
       "OriginalItemSpec": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-zpx5zeh9ru.gz",
+      "Identity": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-nlzxv98q0u.gz",
       "SourceId": "GameSpace",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GameSpace",
-      "RelativePath": "css/site#[.{fingerprint=zpx5zeh9ru}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=nlzxv98q0u}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -871,8 +871,8 @@
       "RelatedAsset": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xume38udw0",
-      "Integrity": "x3GGOXoBFS2YowkIM8WgQ/RegDH6K+488BqaSpgt0QI=",
+      "Fingerprint": "v1wwq14xuy",
+      "Integrity": "Q+gU2kC5OesSaokIjDKeG2+Mxwd40tc4mrYWnofX8Ws=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zpx5zeh9ru",
-      "Integrity": "CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s=",
+      "Fingerprint": "nlzxv98q0u",
+      "Integrity": "e3Vl/2gA+21GX2i80gwywadM+T9Yz+MzeyUpduZU764=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1459,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "t0zeth8bwj",
-      "Integrity": "M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY=",
+      "Fingerprint": "yryxcdeqg8",
+      "Integrity": "spHkm7qMThrQDi2VmRmGCCwMYrcr7WvQ2INwylgVP4M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Consoles\\playStation1.png"
@@ -1480,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "v8d2w6jhjx",
-      "Integrity": "cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3+//Qq4=",
+      "Fingerprint": "1hcjhobb7c",
+      "Integrity": "G7lFcHgjdqq7uPZUxk1FTdM7hJI95/s6E9zaoqxd/m8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Consoles\\playStation2.png"
@@ -1501,8 +1501,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5jq7wsdmgr",
-      "Integrity": "7x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0=",
+      "Fingerprint": "fgzyuy0tqb",
+      "Integrity": "ATJJhsoEjgGcUkF7Dq8lUXGBZEpIBS4Q1OlQq0/IMHQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Consoles\\playStation3.png"
@@ -1543,8 +1543,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "kb601qv7s5",
-      "Integrity": "AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc=",
+      "Fingerprint": "uxegdnlj8b",
+      "Integrity": "oqhsjMFFRyoNavyHYdjnTLJ50w645XK/PuWRMq51Nys=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Consoles\\playStation5.png"
@@ -1564,8 +1564,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mjuc0nexe6",
-      "Integrity": "Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc=",
+      "Fingerprint": "8n8d97hczm",
+      "Integrity": "BKJA5S7UTQZOD1bs0e8aYDu4mY7kpzzKsKeIPQQy74U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Consoles\\playStationPortable.png"
@@ -1606,8 +1606,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vy8tkgc4o0",
-      "Integrity": "WZn6PPvOiKeAxKh+Jux2fftBFZsCdR0A3uqm5TpsZsE=",
+      "Fingerprint": "d3145ishrc",
+      "Integrity": "d3T6RDTLrWiO2kccI0TAumcXxKtG/k9Q9QDugUWkl2g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Consoles\\xbox.png"
@@ -1627,8 +1627,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c1sddvw85k",
-      "Integrity": "0CfG0XTt267+9/gMhoJ+azNT42IbQ9cAwAMCWmVmO2Y=",
+      "Fingerprint": "0mcmp0d3mo",
+      "Integrity": "WDLlK8DNTsknEjYOUV0gAhd+er9Iy+/SXyZkCXLv780=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Consoles\\xbox360.png"
@@ -4115,12 +4115,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-zpx5zeh9ru.gz",
+      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-nlzxv98q0u.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002057613169"
+          "Quality": "0.001400560224"
         }
       ],
       "ResponseHeaders": [
@@ -4130,15 +4130,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "485"
+          "Value": "713"
         },
         {
           "Name": "ETag",
-          "Value": "\"x3GGOXoBFS2YowkIM8WgQ/RegDH6K+488BqaSpgt0QI=\""
+          "Value": "\"Q+gU2kC5OesSaokIjDKeG2+Mxwd40tc4mrYWnofX8Ws=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:23:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4158,13 +4158,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s=\""
+          "Value": "W/\"e3Vl/2gA+21GX2i80gwywadM+T9Yz+MzeyUpduZU764=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s="
+          "Value": "sha256-e3Vl/2gA+21GX2i80gwywadM+T9Yz+MzeyUpduZU764="
         }
       ]
     },
@@ -4179,7 +4179,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1011"
+          "Value": "1584"
         },
         {
           "Name": "Content-Type",
@@ -4187,11 +4187,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s=\""
+          "Value": "\"e3Vl/2gA+21GX2i80gwywadM+T9Yz+MzeyUpduZU764=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:23:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4201,13 +4201,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s="
+          "Value": "sha256-e3Vl/2gA+21GX2i80gwywadM+T9Yz+MzeyUpduZU764="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-zpx5zeh9ru.gz",
+      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-nlzxv98q0u.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4216,7 +4216,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "485"
+          "Value": "713"
         },
         {
           "Name": "Content-Type",
@@ -4224,11 +4224,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"x3GGOXoBFS2YowkIM8WgQ/RegDH6K+488BqaSpgt0QI=\""
+          "Value": "\"Q+gU2kC5OesSaokIjDKeG2+Mxwd40tc4mrYWnofX8Ws=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:23:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4246,18 +4246,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-x3GGOXoBFS2YowkIM8WgQ/RegDH6K+488BqaSpgt0QI="
+          "Value": "sha256-Q+gU2kC5OesSaokIjDKeG2+Mxwd40tc4mrYWnofX8Ws="
         }
       ]
     },
     {
-      "Route": "css/site.zpx5zeh9ru.css",
-      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-zpx5zeh9ru.gz",
+      "Route": "css/site.nlzxv98q0u.css",
+      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-nlzxv98q0u.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002057613169"
+          "Quality": "0.001400560224"
         }
       ],
       "ResponseHeaders": [
@@ -4267,15 +4267,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "485"
+          "Value": "713"
         },
         {
           "Name": "ETag",
-          "Value": "\"x3GGOXoBFS2YowkIM8WgQ/RegDH6K+488BqaSpgt0QI=\""
+          "Value": "\"Q+gU2kC5OesSaokIjDKeG2+Mxwd40tc4mrYWnofX8Ws=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:23:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4295,13 +4295,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s=\""
+          "Value": "W/\"e3Vl/2gA+21GX2i80gwywadM+T9Yz+MzeyUpduZU764=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zpx5zeh9ru"
+          "Value": "nlzxv98q0u"
         },
         {
           "Name": "label",
@@ -4309,12 +4309,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s="
+          "Value": "sha256-e3Vl/2gA+21GX2i80gwywadM+T9Yz+MzeyUpduZU764="
         }
       ]
     },
     {
-      "Route": "css/site.zpx5zeh9ru.css",
+      "Route": "css/site.nlzxv98q0u.css",
       "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4324,7 +4324,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1011"
+          "Value": "1584"
         },
         {
           "Name": "Content-Type",
@@ -4332,11 +4332,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s=\""
+          "Value": "\"e3Vl/2gA+21GX2i80gwywadM+T9Yz+MzeyUpduZU764=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:23:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4346,7 +4346,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zpx5zeh9ru"
+          "Value": "nlzxv98q0u"
         },
         {
           "Name": "label",
@@ -4354,13 +4354,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s="
+          "Value": "sha256-e3Vl/2gA+21GX2i80gwywadM+T9Yz+MzeyUpduZU764="
         }
       ]
     },
     {
-      "Route": "css/site.zpx5zeh9ru.css.gz",
-      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-zpx5zeh9ru.gz",
+      "Route": "css/site.nlzxv98q0u.css.gz",
+      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\compressed\\kh19ne6byw-nlzxv98q0u.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4369,7 +4369,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "485"
+          "Value": "713"
         },
         {
           "Name": "Content-Type",
@@ -4377,11 +4377,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"x3GGOXoBFS2YowkIM8WgQ/RegDH6K+488BqaSpgt0QI=\""
+          "Value": "\"Q+gU2kC5OesSaokIjDKeG2+Mxwd40tc4mrYWnofX8Ws=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:23:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4399,7 +4399,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zpx5zeh9ru"
+          "Value": "nlzxv98q0u"
         },
         {
           "Name": "label",
@@ -4407,7 +4407,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-x3GGOXoBFS2YowkIM8WgQ/RegDH6K+488BqaSpgt0QI="
+          "Value": "sha256-Q+gU2kC5OesSaokIjDKeG2+Mxwd40tc4mrYWnofX8Ws="
         }
       ]
     },
@@ -5316,7 +5316,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "374744"
+          "Value": "138719"
         },
         {
           "Name": "Content-Type",
@@ -5324,11 +5324,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY=\""
+          "Value": "\"spHkm7qMThrQDi2VmRmGCCwMYrcr7WvQ2INwylgVP4M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:02:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5338,12 +5338,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY="
+          "Value": "sha256-spHkm7qMThrQDi2VmRmGCCwMYrcr7WvQ2INwylgVP4M="
         }
       ]
     },
     {
-      "Route": "img/Consoles/playStation1.t0zeth8bwj.png",
+      "Route": "img/Consoles/playStation1.yryxcdeqg8.png",
       "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStation1.png",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5353,7 +5353,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "374744"
+          "Value": "138719"
         },
         {
           "Name": "Content-Type",
@@ -5361,11 +5361,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY=\""
+          "Value": "\"spHkm7qMThrQDi2VmRmGCCwMYrcr7WvQ2INwylgVP4M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:02:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5375,7 +5375,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "t0zeth8bwj"
+          "Value": "yryxcdeqg8"
         },
         {
           "Name": "label",
@@ -5383,7 +5383,52 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY="
+          "Value": "sha256-spHkm7qMThrQDi2VmRmGCCwMYrcr7WvQ2INwylgVP4M="
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/playStation2.1hcjhobb7c.png",
+      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStation2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G7lFcHgjdqq7uPZUxk1FTdM7hJI95/s6E9zaoqxd/m8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Oct 2025 23:03:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hcjhobb7c"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Consoles/playStation2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G7lFcHgjdqq7uPZUxk1FTdM7hJI95/s6E9zaoqxd/m8="
         }
       ]
     },
@@ -5398,7 +5443,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "153394"
+          "Value": "229726"
         },
         {
           "Name": "Content-Type",
@@ -5406,11 +5451,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3+//Qq4=\""
+          "Value": "\"G7lFcHgjdqq7uPZUxk1FTdM7hJI95/s6E9zaoqxd/m8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:03:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5420,57 +5465,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3+//Qq4="
+          "Value": "sha256-G7lFcHgjdqq7uPZUxk1FTdM7hJI95/s6E9zaoqxd/m8="
         }
       ]
     },
     {
-      "Route": "img/Consoles/playStation2.v8d2w6jhjx.png",
-      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStation2.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "153394"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3+//Qq4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v8d2w6jhjx"
-        },
-        {
-          "Name": "label",
-          "Value": "img/Consoles/playStation2.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3+//Qq4="
-        }
-      ]
-    },
-    {
-      "Route": "img/Consoles/playStation3.5jq7wsdmgr.png",
+      "Route": "img/Consoles/playStation3.fgzyuy0tqb.png",
       "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStation3.png",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5480,7 +5480,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "115321"
+          "Value": "139134"
         },
         {
           "Name": "Content-Type",
@@ -5488,11 +5488,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0=\""
+          "Value": "\"ATJJhsoEjgGcUkF7Dq8lUXGBZEpIBS4Q1OlQq0/IMHQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:05:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5502,7 +5502,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5jq7wsdmgr"
+          "Value": "fgzyuy0tqb"
         },
         {
           "Name": "label",
@@ -5510,7 +5510,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0="
+          "Value": "sha256-ATJJhsoEjgGcUkF7Dq8lUXGBZEpIBS4Q1OlQq0/IMHQ="
         }
       ]
     },
@@ -5525,7 +5525,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "115321"
+          "Value": "139134"
         },
         {
           "Name": "Content-Type",
@@ -5533,11 +5533,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0=\""
+          "Value": "\"ATJJhsoEjgGcUkF7Dq8lUXGBZEpIBS4Q1OlQq0/IMHQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:05:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5547,7 +5547,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0="
+          "Value": "sha256-ATJJhsoEjgGcUkF7Dq8lUXGBZEpIBS4Q1OlQq0/IMHQ="
         }
       ]
     },
@@ -5634,51 +5634,6 @@
       ]
     },
     {
-      "Route": "img/Consoles/playStation5.kb601qv7s5.png",
-      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStation5.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "37076"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kb601qv7s5"
-        },
-        {
-          "Name": "label",
-          "Value": "img/Consoles/playStation5.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc="
-        }
-      ]
-    },
-    {
       "Route": "img/Consoles/playStation5.png",
       "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStation5.png",
       "Selectors": [],
@@ -5689,7 +5644,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37076"
+          "Value": "113890"
         },
         {
           "Name": "Content-Type",
@@ -5697,11 +5652,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc=\""
+          "Value": "\"oqhsjMFFRyoNavyHYdjnTLJ50w645XK/PuWRMq51Nys=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:07:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5711,13 +5666,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc="
+          "Value": "sha256-oqhsjMFFRyoNavyHYdjnTLJ50w645XK/PuWRMq51Nys="
         }
       ]
     },
     {
-      "Route": "img/Consoles/playStationPortable.mjuc0nexe6.png",
-      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStationPortable.png",
+      "Route": "img/Consoles/playStation5.uxegdnlj8b.png",
+      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStation5.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5726,7 +5681,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1228850"
+          "Value": "113890"
         },
         {
           "Name": "Content-Type",
@@ -5734,11 +5689,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc=\""
+          "Value": "\"oqhsjMFFRyoNavyHYdjnTLJ50w645XK/PuWRMq51Nys=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:07:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5748,7 +5703,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mjuc0nexe6"
+          "Value": "uxegdnlj8b"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Consoles/playStation5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oqhsjMFFRyoNavyHYdjnTLJ50w645XK/PuWRMq51Nys="
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/playStationPortable.8n8d97hczm.png",
+      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStationPortable.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BKJA5S7UTQZOD1bs0e8aYDu4mY7kpzzKsKeIPQQy74U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Oct 2025 23:14:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8n8d97hczm"
         },
         {
           "Name": "label",
@@ -5756,7 +5756,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc="
+          "Value": "sha256-BKJA5S7UTQZOD1bs0e8aYDu4mY7kpzzKsKeIPQQy74U="
         }
       ]
     },
@@ -5771,7 +5771,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1228850"
+          "Value": "194433"
         },
         {
           "Name": "Content-Type",
@@ -5779,11 +5779,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc=\""
+          "Value": "\"BKJA5S7UTQZOD1bs0e8aYDu4mY7kpzzKsKeIPQQy74U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:14:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5793,7 +5793,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc="
+          "Value": "sha256-BKJA5S7UTQZOD1bs0e8aYDu4mY7kpzzKsKeIPQQy74U="
         }
       ]
     },
@@ -5880,6 +5880,51 @@
       ]
     },
     {
+      "Route": "img/Consoles/xbox.d3145ishrc.png",
+      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\xbox.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d3T6RDTLrWiO2kccI0TAumcXxKtG/k9Q9QDugUWkl2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Oct 2025 22:49:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d3145ishrc"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Consoles/xbox.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d3T6RDTLrWiO2kccI0TAumcXxKtG/k9Q9QDugUWkl2g="
+        }
+      ]
+    },
+    {
       "Route": "img/Consoles/xbox.png",
       "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\xbox.png",
       "Selectors": [],
@@ -5890,7 +5935,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2437436"
+          "Value": "187057"
         },
         {
           "Name": "Content-Type",
@@ -5898,11 +5943,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WZn6PPvOiKeAxKh+Jux2fftBFZsCdR0A3uqm5TpsZsE=\""
+          "Value": "\"d3T6RDTLrWiO2kccI0TAumcXxKtG/k9Q9QDugUWkl2g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 22:49:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5912,57 +5957,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WZn6PPvOiKeAxKh+Jux2fftBFZsCdR0A3uqm5TpsZsE="
+          "Value": "sha256-d3T6RDTLrWiO2kccI0TAumcXxKtG/k9Q9QDugUWkl2g="
         }
       ]
     },
     {
-      "Route": "img/Consoles/xbox.vy8tkgc4o0.png",
-      "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\xbox.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2437436"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WZn6PPvOiKeAxKh+Jux2fftBFZsCdR0A3uqm5TpsZsE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vy8tkgc4o0"
-        },
-        {
-          "Name": "label",
-          "Value": "img/Consoles/xbox.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WZn6PPvOiKeAxKh+Jux2fftBFZsCdR0A3uqm5TpsZsE="
-        }
-      ]
-    },
-    {
-      "Route": "img/Consoles/xbox360.c1sddvw85k.png",
+      "Route": "img/Consoles/xbox360.0mcmp0d3mo.png",
       "AssetFile": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\xbox360.png",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5972,7 +5972,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1392293"
+          "Value": "92724"
         },
         {
           "Name": "Content-Type",
@@ -5980,11 +5980,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0CfG0XTt267+9/gMhoJ+azNT42IbQ9cAwAMCWmVmO2Y=\""
+          "Value": "\"WDLlK8DNTsknEjYOUV0gAhd+er9Iy+/SXyZkCXLv780=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:00:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5994,7 +5994,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c1sddvw85k"
+          "Value": "0mcmp0d3mo"
         },
         {
           "Name": "label",
@@ -6002,7 +6002,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0CfG0XTt267+9/gMhoJ+azNT42IbQ9cAwAMCWmVmO2Y="
+          "Value": "sha256-WDLlK8DNTsknEjYOUV0gAhd+er9Iy+/SXyZkCXLv780="
         }
       ]
     },
@@ -6017,7 +6017,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1392293"
+          "Value": "92724"
         },
         {
           "Name": "Content-Type",
@@ -6025,11 +6025,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0CfG0XTt267+9/gMhoJ+azNT42IbQ9cAwAMCWmVmO2Y=\""
+          "Value": "\"WDLlK8DNTsknEjYOUV0gAhd+er9Iy+/SXyZkCXLv780=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:00:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6039,7 +6039,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0CfG0XTt267+9/gMhoJ+azNT42IbQ9cAwAMCWmVmO2Y="
+          "Value": "sha256-WDLlK8DNTsknEjYOUV0gAhd+er9Iy+/SXyZkCXLv780="
         }
       ]
     },

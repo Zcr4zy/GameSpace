@@ -3,14 +3,14 @@
     <StaticWebAssetEndpoint Include="_content/GameSpace/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1011"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 21:59:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-e3Vl/2gA\u002B21GX2i80gwywadM\u002BT9Yz\u002BMzeyUpduZU764="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1584"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022e3Vl/2gA\u002B21GX2i80gwywadM\u002BT9Yz\u002BMzeyUpduZU764=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 23:23:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GameSpace/css/site.zpx5zeh9ru.css">
+    <StaticWebAssetEndpoint Include="_content/GameSpace/css/site.nlzxv98q0u.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zpx5zeh9ru"},{"Name":"integrity","Value":"sha256-CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s="},{"Name":"label","Value":"_content/GameSpace/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1011"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 21:59:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nlzxv98q0u"},{"Name":"integrity","Value":"sha256-e3Vl/2gA\u002B21GX2i80gwywadM\u002BT9Yz\u002BMzeyUpduZU764="},{"Name":"label","Value":"_content/GameSpace/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1584"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022e3Vl/2gA\u002B21GX2i80gwywadM\u002BT9Yz\u002BMzeyUpduZU764=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 23:23:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -39,38 +39,38 @@
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation1.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation1.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"374744"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 21:59:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-spHkm7qMThrQDi2VmRmGCCwMYrcr7WvQ2INwylgVP4M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"138719"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022spHkm7qMThrQDi2VmRmGCCwMYrcr7WvQ2INwylgVP4M=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 23:02:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation1.t0zeth8bwj.png">
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation1.yryxcdeqg8.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation1.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t0zeth8bwj"},{"Name":"integrity","Value":"sha256-M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/playStation1.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"374744"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 21:59:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yryxcdeqg8"},{"Name":"integrity","Value":"sha256-spHkm7qMThrQDi2VmRmGCCwMYrcr7WvQ2INwylgVP4M="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/playStation1.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"138719"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022spHkm7qMThrQDi2VmRmGCCwMYrcr7WvQ2INwylgVP4M=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 23:02:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation2.1hcjhobb7c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation2.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1hcjhobb7c"},{"Name":"integrity","Value":"sha256-G7lFcHgjdqq7uPZUxk1FTdM7hJI95/s6E9zaoqxd/m8="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/playStation2.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"229726"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022G7lFcHgjdqq7uPZUxk1FTdM7hJI95/s6E9zaoqxd/m8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 23:03:44 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation2.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation2.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3\u002B//Qq4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"153394"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3\u002B//Qq4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 21:59:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-G7lFcHgjdqq7uPZUxk1FTdM7hJI95/s6E9zaoqxd/m8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"229726"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022G7lFcHgjdqq7uPZUxk1FTdM7hJI95/s6E9zaoqxd/m8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 23:03:44 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation2.v8d2w6jhjx.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation2.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v8d2w6jhjx"},{"Name":"integrity","Value":"sha256-cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3\u002B//Qq4="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/playStation2.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"153394"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3\u002B//Qq4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 21:59:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation3.5jq7wsdmgr.png">
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation3.fgzyuy0tqb.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation3.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5jq7wsdmgr"},{"Name":"integrity","Value":"sha256-7x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/playStation3.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"115321"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00227x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 21:59:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fgzyuy0tqb"},{"Name":"integrity","Value":"sha256-ATJJhsoEjgGcUkF7Dq8lUXGBZEpIBS4Q1OlQq0/IMHQ="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/playStation3.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"139134"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ATJJhsoEjgGcUkF7Dq8lUXGBZEpIBS4Q1OlQq0/IMHQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 23:05:49 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation3.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation3.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"115321"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00227x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 21:59:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ATJJhsoEjgGcUkF7Dq8lUXGBZEpIBS4Q1OlQq0/IMHQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"139134"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ATJJhsoEjgGcUkF7Dq8lUXGBZEpIBS4Q1OlQq0/IMHQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 23:05:49 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation4.fw151uau04.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation4.png'))</AssetFile>
@@ -84,29 +84,29 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-35GOpersJc8b0sbyEB4ElUZodOP4Hmi2rYo6lUKrXmA="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"280488"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002235GOpersJc8b0sbyEB4ElUZodOP4Hmi2rYo6lUKrXmA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 21:59:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation5.kb601qv7s5.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation5.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kb601qv7s5"},{"Name":"integrity","Value":"sha256-AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/playStation5.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37076"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 21:59:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation5.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation5.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"37076"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 21:59:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oqhsjMFFRyoNavyHYdjnTLJ50w645XK/PuWRMq51Nys="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"113890"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oqhsjMFFRyoNavyHYdjnTLJ50w645XK/PuWRMq51Nys=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 23:07:05 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStationPortable.mjuc0nexe6.png">
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStation5.uxegdnlj8b.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation5.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uxegdnlj8b"},{"Name":"integrity","Value":"sha256-oqhsjMFFRyoNavyHYdjnTLJ50w645XK/PuWRMq51Nys="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/playStation5.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"113890"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oqhsjMFFRyoNavyHYdjnTLJ50w645XK/PuWRMq51Nys=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 23:07:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStationPortable.8n8d97hczm.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStationPortable.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mjuc0nexe6"},{"Name":"integrity","Value":"sha256-Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/playStationPortable.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1228850"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 21:59:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8n8d97hczm"},{"Name":"integrity","Value":"sha256-BKJA5S7UTQZOD1bs0e8aYDu4mY7kpzzKsKeIPQQy74U="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/playStationPortable.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"194433"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022BKJA5S7UTQZOD1bs0e8aYDu4mY7kpzzKsKeIPQQy74U=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 23:14:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStationPortable.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStationPortable.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1228850"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 21:59:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BKJA5S7UTQZOD1bs0e8aYDu4mY7kpzzKsKeIPQQy74U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"194433"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022BKJA5S7UTQZOD1bs0e8aYDu4mY7kpzzKsKeIPQQy74U=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 23:14:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/playStationVita.pgh83zn4ym.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStationVita.png'))</AssetFile>
@@ -120,29 +120,29 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-acn0SidTyjZhNT2kuo1xwSzJ4MLjMCCHHlLaNU\u002BaZbM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15404873"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022acn0SidTyjZhNT2kuo1xwSzJ4MLjMCCHHlLaNU\u002BaZbM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 21:59:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/xbox.d3145ishrc.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\xbox.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"d3145ishrc"},{"Name":"integrity","Value":"sha256-d3T6RDTLrWiO2kccI0TAumcXxKtG/k9Q9QDugUWkl2g="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/xbox.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"187057"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022d3T6RDTLrWiO2kccI0TAumcXxKtG/k9Q9QDugUWkl2g=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 22:49:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/xbox.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\xbox.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WZn6PPvOiKeAxKh\u002BJux2fftBFZsCdR0A3uqm5TpsZsE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2437436"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WZn6PPvOiKeAxKh\u002BJux2fftBFZsCdR0A3uqm5TpsZsE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 21:59:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-d3T6RDTLrWiO2kccI0TAumcXxKtG/k9Q9QDugUWkl2g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"187057"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022d3T6RDTLrWiO2kccI0TAumcXxKtG/k9Q9QDugUWkl2g=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 22:49:35 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/xbox.vy8tkgc4o0.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\xbox.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vy8tkgc4o0"},{"Name":"integrity","Value":"sha256-WZn6PPvOiKeAxKh\u002BJux2fftBFZsCdR0A3uqm5TpsZsE="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/xbox.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2437436"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WZn6PPvOiKeAxKh\u002BJux2fftBFZsCdR0A3uqm5TpsZsE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 21:59:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/xbox360.c1sddvw85k.png">
+    <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/xbox360.0mcmp0d3mo.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\xbox360.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c1sddvw85k"},{"Name":"integrity","Value":"sha256-0CfG0XTt267\u002B9/gMhoJ\u002BazNT42IbQ9cAwAMCWmVmO2Y="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/xbox360.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1392293"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00220CfG0XTt267\u002B9/gMhoJ\u002BazNT42IbQ9cAwAMCWmVmO2Y=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 21:59:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0mcmp0d3mo"},{"Name":"integrity","Value":"sha256-WDLlK8DNTsknEjYOUV0gAhd\u002Ber9Iy\u002B/SXyZkCXLv780="},{"Name":"label","Value":"_content/GameSpace/img/Consoles/xbox360.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"92724"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WDLlK8DNTsknEjYOUV0gAhd\u002Ber9Iy\u002B/SXyZkCXLv780=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 23:00:49 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/xbox360.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\xbox360.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0CfG0XTt267\u002B9/gMhoJ\u002BazNT42IbQ9cAwAMCWmVmO2Y="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1392293"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00220CfG0XTt267\u002B9/gMhoJ\u002BazNT42IbQ9cAwAMCWmVmO2Y=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 21:59:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WDLlK8DNTsknEjYOUV0gAhd\u002Ber9Iy\u002B/SXyZkCXLv780="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"92724"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WDLlK8DNTsknEjYOUV0gAhd\u002Ber9Iy\u002B/SXyZkCXLv780=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 23:00:49 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameSpace/img/Consoles/xboxOne.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\xboxOne.png'))</AssetFile>

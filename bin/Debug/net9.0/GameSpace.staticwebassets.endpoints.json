@@ -389,7 +389,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002057613169"
+          "Quality": "0.001400560224"
         }
       ],
       "ResponseHeaders": [
@@ -407,7 +407,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "485"
+          "Value": "713"
         },
         {
           "Name": "Content-Type",
@@ -415,15 +415,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"x3GGOXoBFS2YowkIM8WgQ/RegDH6K+488BqaSpgt0QI=\""
+          "Value": "\"Q+gU2kC5OesSaokIjDKeG2+Mxwd40tc4mrYWnofX8Ws=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s=\""
+          "Value": "W/\"e3Vl/2gA+21GX2i80gwywadM+T9Yz+MzeyUpduZU764=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:23:39 GMT"
         },
         {
           "Name": "Vary",
@@ -433,7 +433,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s="
+          "Value": "sha256-e3Vl/2gA+21GX2i80gwywadM+T9Yz+MzeyUpduZU764="
         }
       ]
     },
@@ -452,7 +452,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1011"
+          "Value": "1584"
         },
         {
           "Name": "Content-Type",
@@ -460,17 +460,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s=\""
+          "Value": "\"e3Vl/2gA+21GX2i80gwywadM+T9Yz+MzeyUpduZU764=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:23:39 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s="
+          "Value": "sha256-e3Vl/2gA+21GX2i80gwywadM+T9Yz+MzeyUpduZU764="
         }
       ]
     },
@@ -493,7 +493,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "485"
+          "Value": "713"
         },
         {
           "Name": "Content-Type",
@@ -501,11 +501,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"x3GGOXoBFS2YowkIM8WgQ/RegDH6K+488BqaSpgt0QI=\""
+          "Value": "\"Q+gU2kC5OesSaokIjDKeG2+Mxwd40tc4mrYWnofX8Ws=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:23:39 GMT"
         },
         {
           "Name": "Vary",
@@ -515,18 +515,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-x3GGOXoBFS2YowkIM8WgQ/RegDH6K+488BqaSpgt0QI="
+          "Value": "sha256-Q+gU2kC5OesSaokIjDKeG2+Mxwd40tc4mrYWnofX8Ws="
         }
       ]
     },
     {
-      "Route": "css/site.zpx5zeh9ru.css",
+      "Route": "css/site.nlzxv98q0u.css",
       "AssetFile": "css/site.css.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002057613169"
+          "Quality": "0.001400560224"
         }
       ],
       "ResponseHeaders": [
@@ -544,7 +544,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "485"
+          "Value": "713"
         },
         {
           "Name": "Content-Type",
@@ -552,15 +552,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"x3GGOXoBFS2YowkIM8WgQ/RegDH6K+488BqaSpgt0QI=\""
+          "Value": "\"Q+gU2kC5OesSaokIjDKeG2+Mxwd40tc4mrYWnofX8Ws=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s=\""
+          "Value": "W/\"e3Vl/2gA+21GX2i80gwywadM+T9Yz+MzeyUpduZU764=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:23:39 GMT"
         },
         {
           "Name": "Vary",
@@ -570,11 +570,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zpx5zeh9ru"
+          "Value": "nlzxv98q0u"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s="
+          "Value": "sha256-e3Vl/2gA+21GX2i80gwywadM+T9Yz+MzeyUpduZU764="
         },
         {
           "Name": "label",
@@ -583,7 +583,7 @@
       ]
     },
     {
-      "Route": "css/site.zpx5zeh9ru.css",
+      "Route": "css/site.nlzxv98q0u.css",
       "AssetFile": "css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -597,7 +597,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1011"
+          "Value": "1584"
         },
         {
           "Name": "Content-Type",
@@ -605,21 +605,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s=\""
+          "Value": "\"e3Vl/2gA+21GX2i80gwywadM+T9Yz+MzeyUpduZU764=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:23:39 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zpx5zeh9ru"
+          "Value": "nlzxv98q0u"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s="
+          "Value": "sha256-e3Vl/2gA+21GX2i80gwywadM+T9Yz+MzeyUpduZU764="
         },
         {
           "Name": "label",
@@ -628,7 +628,7 @@
       ]
     },
     {
-      "Route": "css/site.zpx5zeh9ru.css.gz",
+      "Route": "css/site.nlzxv98q0u.css.gz",
       "AssetFile": "css/site.css.gz",
       "Selectors": [],
       "ResponseHeaders": [
@@ -646,7 +646,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "485"
+          "Value": "713"
         },
         {
           "Name": "Content-Type",
@@ -654,11 +654,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"x3GGOXoBFS2YowkIM8WgQ/RegDH6K+488BqaSpgt0QI=\""
+          "Value": "\"Q+gU2kC5OesSaokIjDKeG2+Mxwd40tc4mrYWnofX8Ws=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:23:39 GMT"
         },
         {
           "Name": "Vary",
@@ -668,11 +668,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zpx5zeh9ru"
+          "Value": "nlzxv98q0u"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-x3GGOXoBFS2YowkIM8WgQ/RegDH6K+488BqaSpgt0QI="
+          "Value": "sha256-Q+gU2kC5OesSaokIjDKeG2+Mxwd40tc4mrYWnofX8Ws="
         },
         {
           "Name": "label",
@@ -993,7 +993,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "374744"
+          "Value": "138719"
         },
         {
           "Name": "Content-Type",
@@ -1001,22 +1001,22 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY=\""
+          "Value": "\"spHkm7qMThrQDi2VmRmGCCwMYrcr7WvQ2INwylgVP4M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:02:40 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY="
+          "Value": "sha256-spHkm7qMThrQDi2VmRmGCCwMYrcr7WvQ2INwylgVP4M="
         }
       ]
     },
     {
-      "Route": "img/Consoles/playStation1.t0zeth8bwj.png",
+      "Route": "img/Consoles/playStation1.yryxcdeqg8.png",
       "AssetFile": "img/Consoles/playStation1.png",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1030,7 +1030,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "374744"
+          "Value": "138719"
         },
         {
           "Name": "Content-Type",
@@ -1038,25 +1038,70 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY=\""
+          "Value": "\"spHkm7qMThrQDi2VmRmGCCwMYrcr7WvQ2INwylgVP4M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:02:40 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "t0zeth8bwj"
+          "Value": "yryxcdeqg8"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY="
+          "Value": "sha256-spHkm7qMThrQDi2VmRmGCCwMYrcr7WvQ2INwylgVP4M="
         },
         {
           "Name": "label",
           "Value": "img/Consoles/playStation1.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/playStation2.1hcjhobb7c.png",
+      "AssetFile": "img/Consoles/playStation2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G7lFcHgjdqq7uPZUxk1FTdM7hJI95/s6E9zaoqxd/m8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Oct 2025 23:03:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hcjhobb7c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G7lFcHgjdqq7uPZUxk1FTdM7hJI95/s6E9zaoqxd/m8="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Consoles/playStation2.png"
         }
       ]
     },
@@ -1075,7 +1120,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "153394"
+          "Value": "229726"
         },
         {
           "Name": "Content-Type",
@@ -1083,67 +1128,22 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3+//Qq4=\""
+          "Value": "\"G7lFcHgjdqq7uPZUxk1FTdM7hJI95/s6E9zaoqxd/m8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:03:44 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3+//Qq4="
+          "Value": "sha256-G7lFcHgjdqq7uPZUxk1FTdM7hJI95/s6E9zaoqxd/m8="
         }
       ]
     },
     {
-      "Route": "img/Consoles/playStation2.v8d2w6jhjx.png",
-      "AssetFile": "img/Consoles/playStation2.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "153394"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3+//Qq4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v8d2w6jhjx"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3+//Qq4="
-        },
-        {
-          "Name": "label",
-          "Value": "img/Consoles/playStation2.png"
-        }
-      ]
-    },
-    {
-      "Route": "img/Consoles/playStation3.5jq7wsdmgr.png",
+      "Route": "img/Consoles/playStation3.fgzyuy0tqb.png",
       "AssetFile": "img/Consoles/playStation3.png",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1157,7 +1157,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "115321"
+          "Value": "139134"
         },
         {
           "Name": "Content-Type",
@@ -1165,21 +1165,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0=\""
+          "Value": "\"ATJJhsoEjgGcUkF7Dq8lUXGBZEpIBS4Q1OlQq0/IMHQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:05:49 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5jq7wsdmgr"
+          "Value": "fgzyuy0tqb"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0="
+          "Value": "sha256-ATJJhsoEjgGcUkF7Dq8lUXGBZEpIBS4Q1OlQq0/IMHQ="
         },
         {
           "Name": "label",
@@ -1202,7 +1202,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "115321"
+          "Value": "139134"
         },
         {
           "Name": "Content-Type",
@@ -1210,17 +1210,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0=\""
+          "Value": "\"ATJJhsoEjgGcUkF7Dq8lUXGBZEpIBS4Q1OlQq0/IMHQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:05:49 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0="
+          "Value": "sha256-ATJJhsoEjgGcUkF7Dq8lUXGBZEpIBS4Q1OlQq0/IMHQ="
         }
       ]
     },
@@ -1307,51 +1307,6 @@
       ]
     },
     {
-      "Route": "img/Consoles/playStation5.kb601qv7s5.png",
-      "AssetFile": "img/Consoles/playStation5.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "37076"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kb601qv7s5"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc="
-        },
-        {
-          "Name": "label",
-          "Value": "img/Consoles/playStation5.png"
-        }
-      ]
-    },
-    {
       "Route": "img/Consoles/playStation5.png",
       "AssetFile": "img/Consoles/playStation5.png",
       "Selectors": [],
@@ -1366,7 +1321,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37076"
+          "Value": "113890"
         },
         {
           "Name": "Content-Type",
@@ -1374,22 +1329,67 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc=\""
+          "Value": "\"oqhsjMFFRyoNavyHYdjnTLJ50w645XK/PuWRMq51Nys=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:07:05 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc="
+          "Value": "sha256-oqhsjMFFRyoNavyHYdjnTLJ50w645XK/PuWRMq51Nys="
         }
       ]
     },
     {
-      "Route": "img/Consoles/playStationPortable.mjuc0nexe6.png",
+      "Route": "img/Consoles/playStation5.uxegdnlj8b.png",
+      "AssetFile": "img/Consoles/playStation5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oqhsjMFFRyoNavyHYdjnTLJ50w645XK/PuWRMq51Nys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Oct 2025 23:07:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uxegdnlj8b"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oqhsjMFFRyoNavyHYdjnTLJ50w645XK/PuWRMq51Nys="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Consoles/playStation5.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/Consoles/playStationPortable.8n8d97hczm.png",
       "AssetFile": "img/Consoles/playStationPortable.png",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1403,7 +1403,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1228850"
+          "Value": "194433"
         },
         {
           "Name": "Content-Type",
@@ -1411,21 +1411,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc=\""
+          "Value": "\"BKJA5S7UTQZOD1bs0e8aYDu4mY7kpzzKsKeIPQQy74U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:14:28 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mjuc0nexe6"
+          "Value": "8n8d97hczm"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc="
+          "Value": "sha256-BKJA5S7UTQZOD1bs0e8aYDu4mY7kpzzKsKeIPQQy74U="
         },
         {
           "Name": "label",
@@ -1448,7 +1448,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1228850"
+          "Value": "194433"
         },
         {
           "Name": "Content-Type",
@@ -1456,17 +1456,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc=\""
+          "Value": "\"BKJA5S7UTQZOD1bs0e8aYDu4mY7kpzzKsKeIPQQy74U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:14:28 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc="
+          "Value": "sha256-BKJA5S7UTQZOD1bs0e8aYDu4mY7kpzzKsKeIPQQy74U="
         }
       ]
     },
@@ -1553,6 +1553,51 @@
       ]
     },
     {
+      "Route": "img/Consoles/xbox.d3145ishrc.png",
+      "AssetFile": "img/Consoles/xbox.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d3T6RDTLrWiO2kccI0TAumcXxKtG/k9Q9QDugUWkl2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Oct 2025 22:49:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d3145ishrc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d3T6RDTLrWiO2kccI0TAumcXxKtG/k9Q9QDugUWkl2g="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Consoles/xbox.png"
+        }
+      ]
+    },
+    {
       "Route": "img/Consoles/xbox.png",
       "AssetFile": "img/Consoles/xbox.png",
       "Selectors": [],
@@ -1567,7 +1612,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2437436"
+          "Value": "187057"
         },
         {
           "Name": "Content-Type",
@@ -1575,67 +1620,22 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WZn6PPvOiKeAxKh+Jux2fftBFZsCdR0A3uqm5TpsZsE=\""
+          "Value": "\"d3T6RDTLrWiO2kccI0TAumcXxKtG/k9Q9QDugUWkl2g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 22:49:35 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WZn6PPvOiKeAxKh+Jux2fftBFZsCdR0A3uqm5TpsZsE="
+          "Value": "sha256-d3T6RDTLrWiO2kccI0TAumcXxKtG/k9Q9QDugUWkl2g="
         }
       ]
     },
     {
-      "Route": "img/Consoles/xbox.vy8tkgc4o0.png",
-      "AssetFile": "img/Consoles/xbox.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2437436"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WZn6PPvOiKeAxKh+Jux2fftBFZsCdR0A3uqm5TpsZsE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vy8tkgc4o0"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WZn6PPvOiKeAxKh+Jux2fftBFZsCdR0A3uqm5TpsZsE="
-        },
-        {
-          "Name": "label",
-          "Value": "img/Consoles/xbox.png"
-        }
-      ]
-    },
-    {
-      "Route": "img/Consoles/xbox360.c1sddvw85k.png",
+      "Route": "img/Consoles/xbox360.0mcmp0d3mo.png",
       "AssetFile": "img/Consoles/xbox360.png",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1649,7 +1649,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1392293"
+          "Value": "92724"
         },
         {
           "Name": "Content-Type",
@@ -1657,21 +1657,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0CfG0XTt267+9/gMhoJ+azNT42IbQ9cAwAMCWmVmO2Y=\""
+          "Value": "\"WDLlK8DNTsknEjYOUV0gAhd+er9Iy+/SXyZkCXLv780=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:00:49 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c1sddvw85k"
+          "Value": "0mcmp0d3mo"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0CfG0XTt267+9/gMhoJ+azNT42IbQ9cAwAMCWmVmO2Y="
+          "Value": "sha256-WDLlK8DNTsknEjYOUV0gAhd+er9Iy+/SXyZkCXLv780="
         },
         {
           "Name": "label",
@@ -1694,7 +1694,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1392293"
+          "Value": "92724"
         },
         {
           "Name": "Content-Type",
@@ -1702,17 +1702,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0CfG0XTt267+9/gMhoJ+azNT42IbQ9cAwAMCWmVmO2Y=\""
+          "Value": "\"WDLlK8DNTsknEjYOUV0gAhd+er9Iy+/SXyZkCXLv780=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Oct 2025 21:59:23 GMT"
+          "Value": "Wed, 29 Oct 2025 23:00:49 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0CfG0XTt267+9/gMhoJ+azNT42IbQ9cAwAMCWmVmO2Y="
+          "Value": "sha256-WDLlK8DNTsknEjYOUV0gAhd+er9Iy+/SXyZkCXLv780="
         }
       ]
     },

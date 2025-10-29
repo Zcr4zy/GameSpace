@@ -1,5 +1,5 @@
 body{
-  background: radial-gradient(circle at center, #1b1630 0%, #0b0a12 100%);
+  background: radial-gradient(circle at center, #191330 0%, #211958 100%);
 }
 
 html {
@@ -36,7 +36,7 @@ body {
 }
 
 #navbarNavegacao{
-  background: radial-gradient(circle at center, #1b1630 0%, #0b0a12 100%);
+  background: radial-gradient(circle at center, #191330 0%, #211958 100%);
   color: white !important;
   display: grid;
   justify-content: center;

@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zpx5zeh9ru</Fingerprint>
-      <Integrity>CXuio58bUNTwYU8tK5FBqiZThX07Oo0FLos8dMiUf4s=</Integrity>
+      <Fingerprint>nlzxv98q0u</Fingerprint>
+      <Integrity>e3Vl/2gA+21GX2i80gwywadM+T9Yz+MzeyUpduZU764=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>t0zeth8bwj</Fingerprint>
-      <Integrity>M/ZXJ32tG0SSy/n0dXrDz/jKOEAROqY7zHewP0mA0YY=</Integrity>
+      <Fingerprint>yryxcdeqg8</Fingerprint>
+      <Integrity>spHkm7qMThrQDi2VmRmGCCwMYrcr7WvQ2INwylgVP4M=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation1.png'))</OriginalItemSpec>
@@ -84,8 +84,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>v8d2w6jhjx</Fingerprint>
-      <Integrity>cegSb3LJRMOyiHaFplg8sO9Hu6SOQhYYseEr3+//Qq4=</Integrity>
+      <Fingerprint>1hcjhobb7c</Fingerprint>
+      <Integrity>G7lFcHgjdqq7uPZUxk1FTdM7hJI95/s6E9zaoqxd/m8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation2.png'))</OriginalItemSpec>
@@ -102,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5jq7wsdmgr</Fingerprint>
-      <Integrity>7x2ji6N0JS/7rV1sMBMxcJc/GssztUL/NvL1JajU7z0=</Integrity>
+      <Fingerprint>fgzyuy0tqb</Fingerprint>
+      <Integrity>ATJJhsoEjgGcUkF7Dq8lUXGBZEpIBS4Q1OlQq0/IMHQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation3.png'))</OriginalItemSpec>
@@ -138,8 +138,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>kb601qv7s5</Fingerprint>
-      <Integrity>AOfKCwPSO9iNnB72A52nlIHgxuM52DynuRCCANu/2cc=</Integrity>
+      <Fingerprint>uxegdnlj8b</Fingerprint>
+      <Integrity>oqhsjMFFRyoNavyHYdjnTLJ50w645XK/PuWRMq51Nys=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStation5.png'))</OriginalItemSpec>
@@ -156,8 +156,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mjuc0nexe6</Fingerprint>
-      <Integrity>Xv7C785/jIibTKeybUq23j3ALZx8EnciHL4z9A8ueIc=</Integrity>
+      <Fingerprint>8n8d97hczm</Fingerprint>
+      <Integrity>BKJA5S7UTQZOD1bs0e8aYDu4mY7kpzzKsKeIPQQy74U=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\playStationPortable.png'))</OriginalItemSpec>
@@ -192,8 +192,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>vy8tkgc4o0</Fingerprint>
-      <Integrity>WZn6PPvOiKeAxKh+Jux2fftBFZsCdR0A3uqm5TpsZsE=</Integrity>
+      <Fingerprint>d3145ishrc</Fingerprint>
+      <Integrity>d3T6RDTLrWiO2kccI0TAumcXxKtG/k9Q9QDugUWkl2g=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\xbox.png'))</OriginalItemSpec>
@@ -210,8 +210,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>c1sddvw85k</Fingerprint>
-      <Integrity>0CfG0XTt267+9/gMhoJ+azNT42IbQ9cAwAMCWmVmO2Y=</Integrity>
+      <Fingerprint>0mcmp0d3mo</Fingerprint>
+      <Integrity>WDLlK8DNTsknEjYOUV0gAhd+er9Iy+/SXyZkCXLv780=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Consoles\xbox360.png'))</OriginalItemSpec>
