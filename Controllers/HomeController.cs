@@ -1,28 +1,24 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using GameSpace.Models;
-using GameSpace.Interfaces;
+using GameSpace.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace GameSpace.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly IConsoleRepository _consoleRepository;
+    private readonly AppDbContext _context;
 
-    public HomeController(IConsoleRepository consoleRepository)
+    public HomeController(AppDbContext dbContext)
     {
-        _consoleRepository = consoleRepository;
+        _context = dbContext;
     }
 
     public IActionResult Index()
     {
-        var consoles = _consoleRepository.GetAll();
+        var consoles = _context.Consoles.Include(i => i.Fabricante).ToList();
         return View(consoles);
-    }
-
-    public IActionResult Privacy()
-    {
-        return View();
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

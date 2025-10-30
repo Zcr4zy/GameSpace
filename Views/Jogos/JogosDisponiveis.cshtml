@@ -1,0 +1,16 @@
+@model List<ConsoleJogo>
+
+<div class="container my-4">
+    <div class="row g-4">
+        @foreach (var cj in Model)
+        {
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <a asp-controller="Jogos" asp-action="JogosDisponiveis" style="text-decoration: none; color:white">
+                    <div class="card h-100 text-center">
+                        <img src="@cj.Jogo.Imagem" class="card-img-top img-fluid" style="height:180px;" alt="Imagem do console">
+                    </div>
+                </a>
+            </div>
+        }
+    </div>
+</div>

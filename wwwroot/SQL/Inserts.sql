@@ -412,3 +412,69 @@ WHERE EXISTS (
 ); 
 
 
+
+INSERT INTO consolejogos (
+	ConsoleId,
+	JogoId
+)
+-- XBOX 360 --
+SELECT 2,
+       3
+UNION ALL
+SELECT 2,
+       4
+UNION ALL
+SELECT 2,
+       5
+UNION ALL
+SELECT 2,
+       6
+UNION ALL
+SELECT 2,
+       8
+UNION ALL
+SELECT 2,
+       9
+UNION ALL
+SELECT 2,
+       10
+UNION ALL
+SELECT 2,
+       11
+UNION ALL
+SELECT 2,
+       12
+UNION ALL
+SELECT 2,
+       16
+UNION ALL
+SELECT 2,
+       19
+UNION ALL
+SELECT 2,
+       20
+UNION ALL
+SELECT 2,
+       21
+UNION ALL
+SELECT 2,
+       22
+UNION ALL
+SELECT 2,
+       23
+UNION ALL
+SELECT 2,
+       24
+UNION ALL
+SELECT 2,
+       27
+UNION ALL
+SELECT 2,
+       28
+WHERE EXISTS (
+	SELECT * 
+	FROM INFORMATION_SCHEMA.TABLES
+	WHERE TABLE_SCHEMA = 'gamespace'
+	  AND TABLE_NAME = 'consolejogos'
+);
+

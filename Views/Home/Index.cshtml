@@ -5,7 +5,7 @@
         @foreach (var console in Model)
         {
             <div class="col-lg-3 col-md-6 col-sm-12">
-                <a href="https://youtube.com" style="text-decoration: none; color:white">
+                <a asp-controller="Jogos" asp-action="JogosDisponiveis" asp-route-id="@console.Id" style="text-decoration: none; color:white">
                     <div class="card h-100 text-center">
                         <img src="@console.Imagem" class="card-img-top img-fluid" style="height:180px;" alt="Imagem do console">
                         <div class="card-body">
