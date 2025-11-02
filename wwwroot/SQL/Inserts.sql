@@ -477,4 +477,3 @@ WHERE EXISTS (
 	WHERE TABLE_SCHEMA = 'gamespace'
 	  AND TABLE_NAME = 'consolejogos'
 );
-

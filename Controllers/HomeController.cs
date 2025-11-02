@@ -21,6 +21,12 @@ public class HomeController : Controller
         return View(consoles);
     }
 
+    public IActionResult DetalhesConsole(int id)
+    {
+        var dadosConsole = _context.Consoles.Where(w => w.Id == id).Include(i => i.Fabricante).FirstOrDefault();
+        return View(dadosConsole);
+    }
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {

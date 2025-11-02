@@ -1,4 +1,4 @@
-body{
+body {
   background: radial-gradient(circle at center, #191330 0%, #211958 100%);
 }
 
@@ -12,7 +12,11 @@ html {
   }
 }
 
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
@@ -26,24 +30,26 @@ body {
   margin-bottom: 60px;
 }
 
-.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+.form-floating>.form-control-plaintext::placeholder,
+.form-floating>.form-control::placeholder {
   color: var(--bs-secondary-color);
   text-align: end;
 }
 
-.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+.form-floating>.form-control-plaintext:focus::placeholder,
+.form-floating>.form-control:focus::placeholder {
   text-align: start;
 }
 
-#navbarNavegacao{
+#navbarNavegacao {
   background: radial-gradient(circle at center, #191330 0%, #211958 100%);
   color: white !important;
   display: grid;
   justify-content: center;
 }
 
-#logoGameSpace{
-  width: 300px; 
+#logoGameSpace {
+  width: 300px;
   height: 60px;
 }
 
@@ -51,9 +57,9 @@ body {
   width: 100%;
   color: #fff;
   border: 0px solid transparent;
-  border-image: linear-gradient(135deg, rgb(121,67,255), rgb(66,24,170)) 1; 
-  border-radius: 25px; 
-  background: radial-gradient(circle at center, rgb(64, 41, 170) 0%, rgb(34,21,98) 100%);
+  border-image: linear-gradient(135deg, rgb(121, 67, 255), rgb(66, 24, 170)) 1;
+  border-radius: 25px;
+  background: radial-gradient(circle at center, rgb(64, 41, 170) 0%, rgb(34, 21, 98) 100%);
   overflow: hidden;
   transition: transform 0.25s ease, box-shadow 0.25s ease;
   box-shadow: 0 0 25px rgba(63, 16, 182, 0.3);
@@ -64,7 +70,67 @@ body {
   box-shadow: 0 0 25px rgba(127, 84, 235, 0.6);
 }
 
-.btn_ver_detalhes{
+.btn_ver_detalhes {
   color: white;
   margin-top: 20px !important;
+}
+
+
+
+
+.card-detalhes {
+  max-width: 800px;
+  margin: 40px auto;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(121, 67, 255, 0.4);
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(121, 67, 255, 0.2);
+  color: #fff;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-detalhes-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 20px;
+  background: linear-gradient(135deg, rgb(121, 67, 255), rgb(66, 24, 170));
+}
+
+.card-detalhes-header h1 {
+  margin: 0;
+  font-size: 1.8rem;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+}
+
+.fabricante-logo {
+  height: 10vh;
+  filter: drop-shadow(0 0 3px #fff);
+}
+
+.card-detalhes-img {
+  width: 50%;
+  justify-self: center;
+  display: grid;
+}
+
+.card-detalhes-body {
+  padding: 20px;
+}
+
+.descricao {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #ddd;
+  margin-bottom: 15px;
+}
+
+.info p {
+  margin: 5px 0;
+  color: #bbb;
+}
+
+.info strong {
+  color: #a472ff;
 }

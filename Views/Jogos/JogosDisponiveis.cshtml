@@ -1,13 +1,25 @@
-@model List<ConsoleJogo>
+@using GameSpace.ViewModel
+@model ConsoleJogosVM
 
 <div class="container my-4">
+    <div class="row" style="color: white">
+        <div style="display: flex; justify-content: space-between">
+            <h2 style="margin-left: 20px; width: 50% !important; white-space: nowrap;">@Model.NomeConsole</h2>
+            <div class="" style="display: grid; justify-content: center; align-items: center;">
+                <a asp-controller="Home" asp-action="Index" style="text-decoration: none; color:white" class="btn btn-primary">
+                    Retornar
+                </a>
+            </div>
+        </div>
+        <hr />
+    </div>
     <div class="row g-4">
-        @foreach (var cj in Model)
+        @foreach (var cj in Model.Jogos)
         {
             <div class="col-lg-3 col-md-6 col-sm-12">
-                <a asp-controller="Jogos" asp-action="JogosDisponiveis" style="text-decoration: none; color:white">
+                <a asp-controller="Jogos" asp-action="DetalhesJogo" asp-route-id="@cj.Id" style="text-decoration: none; color:white">
                     <div class="card h-100 text-center">
-                        <img src="@cj.Jogo.Imagem" class="card-img-top img-fluid" style="height:180px;" alt="Imagem do console">
+                        <img src="@cj.Imagem" class="card-img-top" style="height:380px;" alt="Imagem do console">
                     </div>
                 </a>
             </div>

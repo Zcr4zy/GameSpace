@@ -1,0 +1,17 @@
+@model GameSpace.Models.Console
+
+<div class="card-detalhes">
+    <div class="card-detalhes-header">
+        <img src="@Model.Fabricante.Logo" alt="@Model.Fabricante.Nome" class="fabricante-logo" />
+        <h1>@Model.Nome</h1>
+    </div>
+    <img style="text-align: center; align-self: center;" src="@Model.Imagem" alt="@Model.Nome" class="card-detalhes-img img-fluid" />
+    <div class="card-detalhes-body">
+        <p class="descricao">@Model.Descricao</p>
+        <div class="info">
+            <p><strong>Data de lançamento:</strong> @Model.DataLancamento.ToShortDateString()</p>
+            <p><strong>Geração:</strong> @Model.Geracao</p>
+            <p><strong>Fabricante:</strong> @Model.Fabricante.Nome</p>
+        </div>
+    </div>
+</div>

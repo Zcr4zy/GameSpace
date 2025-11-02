@@ -28,8 +28,16 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/User/Downloads/GameSpace/Views/Home/DetalhesConsole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhbGhlc0NvbnNvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/User/Downloads/GameSpace/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/GameSpace/Views/Jogos/DetalhesJogo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nb3NcRGV0YWxoZXNKb2dvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/User/Downloads/GameSpace/Views/Jogos/JogosDisponiveis.cshtml]
