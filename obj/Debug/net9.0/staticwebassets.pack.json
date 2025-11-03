@@ -1,0 +1,625 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameSpace.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GameSpace.htxsh45e5l.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\SQL\\1 - fabricanteconsole.sql",
+      "PackagePath": "staticwebassets\\SQL\\1 - fabricanteconsole.sql"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\SQL\\2 - fabricantejogo.sql",
+      "PackagePath": "staticwebassets\\SQL\\2 - fabricantejogo.sql"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\SQL\\3 - console.sql",
+      "PackagePath": "staticwebassets\\SQL\\3 - console.sql"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\SQL\\4 - jogo.sql",
+      "PackagePath": "staticwebassets\\SQL\\4 - jogo.sql"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\SQL\\5 - consolejogo - Inserts.sql",
+      "PackagePath": "staticwebassets\\SQL\\5 - consolejogo - Inserts.sql"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStation1.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\playStation1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStation2.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\playStation2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStation3.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\playStation3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStation4.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\playStation4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStation5.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\playStation5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStationPortable.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\playStationPortable.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\playStationVita.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\playStationVita.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\xbox.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\xbox.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\xbox360.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\xbox360.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\xboxOne.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\xboxOne.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Consoles\\xboxSeriesX.png",
+      "PackagePath": "staticwebassets\\img\\Consoles\\xboxSeriesX.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\GameSpace Light.png",
+      "PackagePath": "staticwebassets\\img\\GameSpace Light.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\GameSpaceDark.png",
+      "PackagePath": "staticwebassets\\img\\GameSpaceDark.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\Bully.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\Bully.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\CastlevaniaSOTN.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\CastlevaniaSOTN.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\DantesInferno.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\DantesInferno.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\FIFASoccer12.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\FIFASoccer12.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\FIFAWorldCup2010.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\FIFAWorldCup2010.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\FarCry.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\FarCry.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\FarCry2.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\FarCry2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\FarCry3.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\FarCry3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\FarCry4.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\FarCry4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\FarCry5.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\FarCry5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\FarCry6.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\FarCry6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\FarCryNewDawn.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\FarCryNewDawn.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\ForzaHorizon.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\ForzaHorizon.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\ForzaHorizon2.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\ForzaHorizon2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\ForzaHorizon3.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\ForzaHorizon3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\ForzaHorizon4.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\ForzaHorizon4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\ForzaHorizon5.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\ForzaHorizon5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GTA2.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GTA2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GodOfWar2.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GodOfWar2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GodOfWar2005.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GodOfWar2005.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GodOfWar2018.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GodOfWar2018.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GodOfWar3.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GodOfWar3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GodOfWarRagnarok.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GodOfWarRagnarok.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GranTurismo.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GranTurismo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GranTurismo2.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GranTurismo2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GrandTheftAutoIII.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GrandTheftAutoIII.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GrandTheftAutoIV.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GrandTheftAutoIV.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GrandTheftAutoSanAndreas.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GrandTheftAutoSanAndreas.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GrandTheftAutoV.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GrandTheftAutoV.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\GrandTheftAutoViceCity.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\GrandTheftAutoViceCity.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\Halo2.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\Halo2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\Halo3.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\Halo3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\Halo3ODST.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\Halo3ODST.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\Halo4.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\Halo4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\Halo5Guardians.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\Halo5Guardians.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\HaloCombatEvolved.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\HaloCombatEvolved.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\HaloInfinite.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\HaloInfinite.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\HaloReach.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\HaloReach.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\MedalOfHonorHeroes.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\MedalOfHonorHeroes.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\MetalGearSolid.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\MetalGearSolid.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\NeedForSpeedUndergroundRivals.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\NeedForSpeedUndergroundRivals.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\RedDeadRedemption.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\RedDeadRedemption.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\RedDeadRedemption2.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\RedDeadRedemption2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\SilentHill.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\SilentHill.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\Tekken3.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\Tekken3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\TheLastOfUs.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\TheLastOfUs.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\TheLastOfUsPart2.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\TheLastOfUsPart2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\TheSimpsonsTheGame.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\TheSimpsonsTheGame.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\WatchDogs.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\WatchDogs.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\WatchDogs2.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\WatchDogs2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\WatchDogsLegion.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\WatchDogsLegion.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Jogos\\needForSpeedMostWanted510.png",
+      "PackagePath": "staticwebassets\\img\\Jogos\\needForSpeedMostWanted510.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Consoles\\atariLogo.png",
+      "PackagePath": "staticwebassets\\img\\Logos_Fabricantes_Consoles\\atariLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Consoles\\microsoftLogo.png",
+      "PackagePath": "staticwebassets\\img\\Logos_Fabricantes_Consoles\\microsoftLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Consoles\\nintendoLogo.png",
+      "PackagePath": "staticwebassets\\img\\Logos_Fabricantes_Consoles\\nintendoLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Consoles\\segaLogo.png",
+      "PackagePath": "staticwebassets\\img\\Logos_Fabricantes_Consoles\\segaLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Consoles\\sonyLogo.png",
+      "PackagePath": "staticwebassets\\img\\Logos_Fabricantes_Consoles\\sonyLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Jogos\\bandaiNamcoLogo.png",
+      "PackagePath": "staticwebassets\\img\\Logos_Fabricantes_Jogos\\bandaiNamcoLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Jogos\\eaLogo.png",
+      "PackagePath": "staticwebassets\\img\\Logos_Fabricantes_Jogos\\eaLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Jogos\\epicLogo.png",
+      "PackagePath": "staticwebassets\\img\\Logos_Fabricantes_Jogos\\epicLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Jogos\\konamiLogo.png",
+      "PackagePath": "staticwebassets\\img\\Logos_Fabricantes_Jogos\\konamiLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Jogos\\microsoftLogo.png",
+      "PackagePath": "staticwebassets\\img\\Logos_Fabricantes_Jogos\\microsoftLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Jogos\\nintendoLogo.png",
+      "PackagePath": "staticwebassets\\img\\Logos_Fabricantes_Jogos\\nintendoLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Jogos\\rockstarGamesLogo.png",
+      "PackagePath": "staticwebassets\\img\\Logos_Fabricantes_Jogos\\rockstarGamesLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Jogos\\segaLogo.png",
+      "PackagePath": "staticwebassets\\img\\Logos_Fabricantes_Jogos\\segaLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Jogos\\sonyLogo.png",
+      "PackagePath": "staticwebassets\\img\\Logos_Fabricantes_Jogos\\sonyLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\Logos_Fabricantes_Jogos\\ubisoftLogo.png",
+      "PackagePath": "staticwebassets\\img\\Logos_Fabricantes_Jogos\\ubisoftLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\img\\design.png",
+      "PackagePath": "staticwebassets\\img\\design.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Downloads\\GameSpace\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.GameSpace.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.GameSpace.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.GameSpace.props",
+      "PackagePath": "build\\GameSpace.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.GameSpace.props",
+      "PackagePath": "buildMultiTargeting\\GameSpace.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.GameSpace.props",
+      "PackagePath": "buildTransitive\\GameSpace.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -7,6 +7,12 @@ INSERT INTO JOGO(
 	DataLancamento,
 	FabricanteJogoId
 )
+SELECT 'Grand Theft Auto 2',
+       'A sequência do jogo que deu origem à franquia GTA. Enfrente gangues, cumpra missões e cause o caos pelas ruas da cidade em visão aérea.',
+       '\\img\\Jogos\\GTA2.png',
+       '1999-10-22',
+       1 
+UNION ALL
 SELECT 'Grand Theft Auto III',
 	   'O GTA que mudou tudo, primeiro totalmente em 3D e com liberdade absurda pra época.',
 	   '\\img\\Jogos\\GrandTheftAutoIII.png',
@@ -242,13 +248,39 @@ SELECT 'Gran Turismo',
        'Um simulador de corridas realista, com diversos carros e pistas para testar suas habilidades ao volante.',
        '\\img\\Jogos\\GranTurismo.png',
        '1997-12-23',
-       4;
+       4
 UNION ALL
 SELECT 'Gran Turismo 2',
        'A continuação do clássico, oferecendo ainda mais carros, pistas e desafios para os fãs de velocidade.',
        '\\img\\Jogos\\GranTurismo2.png',
        '1999-12-11',
-       4;
+       4
+	/* -- BANDAI NAMCO -- */
+UNION ALL
+SELECT 'Metal Gear Solid',
+       'Solid Snake deve impedir terroristas de lançar armas nucleares em Shadow Moses.',
+       '\\img\\Jogos\\MetalGearSolid.png',
+       '1998-09-03',
+       6
+UNION ALL
+SELECT 'Tekken 3',
+       'O lendário torneio de luta retorna com novos personagens e gráficos 3D impressionantes.',
+       '\\img\\Jogos\\Tekken3.png',
+       '1998-03-20',
+       6 
+	/* -- KONAMI -- */
+UNION ALL
+SELECT 'Castlevania: Symphony of the Night',
+       'Alucard explora o castelo de Drácula em uma das maiores aventuras do PS1.',
+       '\\img\\Jogos\\CastlevaniaSOTN.png',
+       '1997-03-20',
+       8
+UNION ALL
+SELECT 'Silent Hill',
+       'Um pai busca sua filha desaparecida em uma cidade envolta em névoa e terror psicológico.',
+       '\\img\\Jogos\\SilentHill.png',
+       '1999-02-23',
+       8
 	/* -- EA --  */
 UNION ALL
 SELECT 'Need for Speed: Most Wanted 5-1-0',
