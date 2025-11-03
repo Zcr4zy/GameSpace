@@ -87,7 +87,6 @@ body {
   box-shadow: 0 0 20px rgba(121, 67, 255, 0.2);
   color: #fff;
   overflow: hidden;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .card-detalhes-header {
@@ -133,4 +132,17 @@ body {
 
 .info strong {
   color: #a472ff;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track-piece{
+  background: radial-gradient(circle at center, #191330 0%, #211958 100%);
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: grey;
+  border-radius: 10px;
 }

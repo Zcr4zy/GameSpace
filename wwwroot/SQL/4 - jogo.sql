@@ -1,173 +1,5 @@
 USE gamespace;
 
-INSERT INTO fabricanteconsole(
-	Nome,
-	Logo 
-)
-SELECT 'Microsoft',
-	   '\\img\\Logos_Fabricantes_Consoles\\microsoftLogo.png'
-UNION ALL
-SELECT 'Sony', 
-	   '\\img\\Logos_Fabricantes_Consoles\\sonyLogo.png'
-UNION ALL
-SELECT 'Nintendo',
-	   '\\img\\Logos_Fabricantes_Consoles\\nintendoLogo.png'
-UNION ALL
-SELECT 'Sega',
-	   '\\img\\Logos_Fabricantes_Consoles\\segaLogo.png'
-UNION ALL
-SELECT 'Atari',
-	   '\\img\\Logos_Fabricantes_Consoles\\atariLogo.png'
-WHERE EXISTS (
-	SELECT * 
-	FROM INFORMATION_SCHEMA.TABLES
-	WHERE TABLE_SCHEMA = 'gamespace'
-	  AND TABLE_NAME = 'fabricanteconsole'
-);
-
-
-
-
-INSERT INTO fabricantejogo (
-	Nome,
-	Imagem 
-)
-SELECT 'Rockstar Games',
-	   '\\img\\Logos_Fabricantes_Jogos\\rockstarGamesLogo.png'
-UNION ALL
-SELECT 'Ubisoft',
-	   '\\img\\Logos_Fabricantes_Jogos\\ubisoftLogo.png'
-UNION ALL
-SELECT 'Microsoft',
-	   '\\img\\Logos_Fabricantes_Jogos\\microsoftLogo.png'
-UNION ALL
-SELECT 'Nintendo',
-	   '\\img\\Logos_Fabricantes_Jogos\\nintendoLogo.png'
-UNION ALL
-SELECT 'Sony Interactive Entertainment',
-	   '\\img\\Logos_Fabricantes_Jogos\\sonyLogo.png'
-UNION ALL
-SELECT 'Bandai Namco',
-	   '\\img\\Logos_Fabricantes_Jogos\\bandaiNamcoLogo.png'
-UNION ALL
-SELECT 'SEGA',
-	   '\\img\\Logos_Fabricantes_Jogos\\segaLogo.png'
-UNION ALL
-SELECT 'Konami',
-	   '\\img\\Logos_Fabricantes_Jogos\\konamiLogo.png'
-UNION ALL
-SELECT 'Epic Games',
-	   '\\img\\Logos_Fabricantes_Jogos\\epicLogo.png'
-WHERE EXISTS (
-	SELECT * 
-	FROM INFORMATION_SCHEMA.TABLES
-	WHERE TABLE_SCHEMA = 'gamespace'
-	  AND TABLE_NAME = 'fabricantejogo'
-);
-
-
-
-
-INSERT INTO CONSOLE(
-	Nome,
-	Descricao,
-	Imagem,
-	DataLancamento,
-	FabricanteConsoleId,
-	Geracao
-)
-	/* -- MICROSOFT  --  */
-SELECT 'Xbox',
-       'O primeiro console da Microsoft, nascido pra bater de frente com o PS2. Tinha hardware parrudo pra época e trouxe jogos lendários como Halo: Combat Evolved, Fable e Ninja Gaiden. Foi o primeiro console a ter disco rígido interno e Xbox Live, o serviço online pioneiro.',
-       '\\img\\Consoles\\xbox.png',
-       '2001-11-15',
-       1, 
-       '6° Geração'
-UNION ALL
-SELECT 'Xbox 360',
-	   'Estourou em popularidade com o Xbox Live Arcade e títulos como Halo 3, Gears of War e Forza. Sofreu com o problema das luzes vermelhas da morte, mas definiu o DNA moderno da marca Xbox.',
-       '\\img\\Consoles\\xbox360.png',
-       '2005-11-22',
-       1, 
-       '7° Geração'
-UNION ALL
-SELECT 'Xbox One',
-	   'Chegou com foco em entretenimento, mas recuperou credibilidade com retrocompatibilidade e o Game Pass. Consolidou o ecossistema Xbox como plataforma unificada.',
-       '\\img\\Consoles\\xboxOne.png',
-       '2013-11-22',
-       1, 
-       '8° Geração'
-UNION ALL
-SELECT 'Xbox Series X',
-	   'O Xbox Series X trouxe potência insana (4K, SSD, Ray Tracing). É a base do futuro do Xbox, com foco total em Game Pass e Cloud Gaming.',
-       '\\img\\Consoles\\xboxSeriesX.png',
-       '2020-11-10',
-       1,
-       '9° Geração'
-	/* -- PLAYSTATION  --  */
-UNION ALL
-SELECT 'PlayStation 1',
-	   'O início da A Sony entrou com tudo no mercado com gráficos 3D, jogos em CD e clássicos eternos como Final Fantasy VII, Crash Bandicoot e Metal Gear Solid.',
-       '\\img\\Consoles\\playStation1.png',
-       '1994-12-03',
-       2,
-       '5° Geração'
-UNION ALL
-SELECT 'PlayStation 2',
-	   'O console mais vendido da história. Reproduzia DVDs, tinha retrocompatibilidade e uma biblioteca insana: GTA: San Andreas, God of War, Shadow of the Colossus, Gran Turismo 4 e muito mais.',
-       '\\img\\Consoles\\playStation2.png',
-       '2000-03-04',
-       2,
-       '6° Geração'
-UNION ALL
-SELECT 'PlayStation 3',
-	   'Começou caro e complicado, mas evoluiu muito. Introduziu o Blu-ray, a PSN, e trouxe exclusivos lendários como The Last of Us, Uncharted 2 e Metal Gear Solid 4. O sistema Cell era poderoso, mas difícil de programar.',
-       '\\img\\Consoles\\playStation3.png',
-       '2006-11-11',
-       2,
-       '7° Geração'
-UNION ALL
-SELECT 'PlayStation 4',
-	   'Recuperou totalmente a confiança da galera. Foco em jogos, interface rápida e uma chuva de exclusivos de peso — God of War (2018), Spider-Man, Bloodborne, Ghost of Tsushima, Horizon Zero Dawn.',
-       '\\img\\Consoles\\playStation4.png',
-       '2013-11-15',
-       2,
-       '8° Geração'
-UNION ALL
-SELECT 'PlayStation 5',
-	   'Potência bruta com SSD ultrarrápido, Ray Tracing, e o DualSense, que elevou o feedback háptico a outro nível. Retrocompatível com PS4 e totalmente integrado à PSN e PS Plus Collection.',
-       '\\img\\Consoles\\playStation5.png',
-       '2020-11-12',
-       2,
-       '9° Geração'
-UNION ALL
-SELECT 'PlayStation Portable',
-	   'O primeiro console portátil da Sony, rival direto do Nintendo DS. Tinha gráficos absurdos pra um portátil da época, rodava filmes em UMD, e podia tocar música, navegar na web e até conectar ao PS3.',
-       '\\img\\Consoles\\playStationPortable.png',
-       '2004-12-12',
-       2,
-       '7° Geração'
-UNION ALL
-SELECT 'PlayStation Vita',
-	   'O primeiro console portátil da Sony, rival direto do Nintendo DS. Tinha gráficos absurdos pra um portátil da época, rodava filmes em UMD, e podia tocar música, navegar na web e até conectar ao PS3.',
-       '\\img\\Consoles\\playStationVita.png',
-       '2012-02-15',
-       2,
-       '8° Geração'
-	   /* -- NINTENDO  --  */
-	   /* -- SEGA  --  */
-	   /* -- ATARI  --  */
-WHERE EXISTS (
-	SELECT * 
-	FROM INFORMATION_SCHEMA.TABLES
-	WHERE TABLE_SCHEMA = 'gamespace'
-	  AND TABLE_NAME = 'console'
-);
-
-
-
-
-
 INSERT INTO JOGO(
 	Nome,
 	Descricao,
@@ -361,6 +193,7 @@ SELECT 'Forza Horizon 5',
 	   'O México nunca foi tão lindo — carros, liberdade e gráficos absurdos.',
 	   '\\img\\Jogos\\ForzaHorizon5.png',
 	   '2021-11-09',
+	   3
 	/* -- Sony -- */
 UNION ALL
 SELECT 'God of War (2005)',
@@ -404,76 +237,64 @@ SELECT 'The Last of Us Part II',
 	   '\\img\\Jogos\\TheLastOfUsPart2.png',
 	   '2020-06-19',
 	   4
+UNION ALL
+SELECT 'Gran Turismo',
+       'Um simulador de corridas realista, com diversos carros e pistas para testar suas habilidades ao volante.',
+       '\\img\\Jogos\\GranTurismo.png',
+       '1997-12-23',
+       4;
+UNION ALL
+SELECT 'Gran Turismo 2',
+       'A continuação do clássico, oferecendo ainda mais carros, pistas e desafios para os fãs de velocidade.',
+       '\\img\\Jogos\\GranTurismo2.png',
+       '1999-12-11',
+       4;
+	/* -- EA --  */
+UNION ALL
+SELECT 'Need for Speed: Most Wanted 5-1-0',
+       'Corra pelas ruas, fuja da polícia e conquiste respeito nas corridas ilegais do PSP.',
+       '\\img\\Jogos\\NeedForSpeedMostWanted510.png',
+       '2005-11-15',
+       10
+UNION ALL
+SELECT 'Dante''s Inferno',
+       'Desça aos nove círculos do Inferno em uma jornada brutal inspirada na Divina Comédia.',
+       '\\img\\Jogos\\DantesInferno.png',
+       '2010-02-09',
+       10
+UNION ALL
+SELECT 'FIFA Soccer 12',
+       'O futebol mais realista do PSP, com dribles refinados, seleções atualizadas e jogabilidade fluida.',
+       '\\img\\Jogos\\FIFASoccer12.png',
+       '2011-09-27',
+       10
+UNION ALL
+SELECT '2010 FIFA World Cup South Africa',
+       'Reviva a emoção da Copa do Mundo de 2010 e leve sua seleção à glória na África do Sul.',
+       '\\img\\Jogos\\FIFAWorldCup2010.png',
+       '2010-04-27',
+       10
+UNION ALL
+SELECT 'Medal of Honor: Heroes',
+       'Entre na pele de heróis lendários da Segunda Guerra em batalhas intensas e imersivas.',
+       '\\img\\Jogos\\MedalOfHonorHeroes.png',
+       '2006-10-23',
+       10
+UNION ALL
+SELECT 'Need for Speed: Underground Rivals',
+       'A franquia de corrida urbana chega ao PSP com tunagem pesada e disputas noturnas eletrizantes.',
+       '\\img\\Jogos\\NeedForSpeedUndergroundRivals.png',
+       '2005-03-16',
+       10
+UNION ALL
+SELECT 'The Simpsons: The Game',
+       'Os Simpsons enfrentam bugs, clones e paródias de videogames em uma aventura hilária.',
+       '\\img\\Jogos\\TheSimpsonsTheGame.png',
+       '2007-10-30',
+       10
 WHERE EXISTS (
 	SELECT * 
 	FROM INFORMATION_SCHEMA.TABLES
 	WHERE TABLE_SCHEMA = 'gamespace'
 	  AND TABLE_NAME = 'jogo'
 ); 
-
-
-
-INSERT INTO consolejogos (
-	ConsoleId,
-	JogoId
-)
--- XBOX 360 --
-SELECT 2,
-       3
-UNION ALL
-SELECT 2,
-       4
-UNION ALL
-SELECT 2,
-       5
-UNION ALL
-SELECT 2,
-       6
-UNION ALL
-SELECT 2,
-       8
-UNION ALL
-SELECT 2,
-       9
-UNION ALL
-SELECT 2,
-       10
-UNION ALL
-SELECT 2,
-       11
-UNION ALL
-SELECT 2,
-       12
-UNION ALL
-SELECT 2,
-       16
-UNION ALL
-SELECT 2,
-       19
-UNION ALL
-SELECT 2,
-       20
-UNION ALL
-SELECT 2,
-       21
-UNION ALL
-SELECT 2,
-       22
-UNION ALL
-SELECT 2,
-       23
-UNION ALL
-SELECT 2,
-       24
-UNION ALL
-SELECT 2,
-       27
-UNION ALL
-SELECT 2,
-       28
-WHERE EXISTS (
-	SELECT * 
-	FROM INFORMATION_SCHEMA.TABLES
-	WHERE TABLE_SCHEMA = 'gamespace'
-	  AND TABLE_NAME = 'consolejogos'
-);

@@ -1,0 +1,22 @@
+@model Jogo
+
+<div class="card-detalhes">
+    <div class="card-detalhes-header">
+        <img src="@Model.Desenvolvedor.Imagem" alt="@Model.Desenvolvedor.Nome" class="fabricante-logo" />
+        <h1>@Model.Nome</h1>
+    </div>
+    <img style="text-align: center; align-self: center; margin-top: 30px; border-radius: 10px" src="@Model.Imagem" alt="@Model.Nome"
+        class="card-detalhes-img img-fluid" />
+    <div class="card-detalhes-body">
+        <p class="descricao">@Model.Descricao</p>
+        <div class="info">
+            <p><strong>Data de lançamento:</strong> @Model.DataLancamento.ToShortDateString()</p>
+            <p><strong>Fabricante:</strong> @Model.Desenvolvedor.Nome</p>
+        </div>
+    </div>
+    <div style="text-align: center; margin-bottom: 10px">
+        <a style="text-decoration: none; color:white" class="btn btn-primary" onclick="window.history.back()">
+            Retornar
+        </a>
+    </div>
+</div>
